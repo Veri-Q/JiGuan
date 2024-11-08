@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "Ji.png"
   name             : "Ji Guan"
-  pronouns         : "he/his"# example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Quantum Computing and Formal Methods"
   location         : "China"
-  employer         : "Institute of Software, Chinese Academy of Sciences"
+  employer         : "Institute of Software, CAS"
   uri              : # URL
   email            : "guanji1992@gmail.com" 
 
