@@ -7,31 +7,15 @@ redirect_from:
   - /about.html
 ---
 # About Me
-Ji Guan is an **Associate Research Professor** at the Institute of Software, Chinese Academy of Sciences, and a recipient of the **Outstanding Youth Award** from ISCAS. He is a member of the **Youth Innovation Promotion Association of the Chinese Academy of Sciences**, and has received funding from the **Beijing High-Level Overseas Talent Program** (awarded to approximately 30 distinguished researchers annually). Ji’s primary research interests in the **Interplay between Quantum Computing and Formal Methods** include **trustworthy quantum machine learning**, **model checking quantum systems**, **quantum algorithm**, and **quantum differential privacy**.
 
-With a focus on the robustness and privacy of quantum systems, Ji has published nearly 20 papers in renowned conferences and journals, including *CAV*, *CCS*, *SICOMP*, *IEEE TIT*, *FM*, *JCSS*, *CONCUR*, *TACAS*, *ITCS*, *QIC*, and *PRA*. Several of his contributions are highlighted in *Model Checking Quantum Systems: Principles and Algorithms*, the first international monograph on quantum model checking, published by Cambridge University Press.
-
-In engineering development, Ji co-led the creation of **VeriQ**, the world’s first relatively complete toolchain for trustworthy quantum computing. VeriQ is designed to help quantum chip manufacturers and researchers deploy quantum machine learning algorithms on noisy quantum chips, and it includes an efficient quantum noise simulator along with nine additional tools. VeriQ is publicly accessible at [VeriQ's official website](https://www.veri-q.com).
-
-In collaboration with renowned institutions, Ji’s research has been funded by the **National Natural Science Foundation of China** and the **National Key R&D Program**, with a focus on the interplay between quantum computing and formal methods. He also serves as a **program committee member** for major conferences like *CAV 2025* and *QCNC 2025*, and is on the editorial board of *Frontiers in Computer Science* under the Theoretical Computer Science section.
-
----
-
-## **Achievements**
-- **Publications**: 13 papers in internationally renowned venues:  
-  - *CAV, ACM CCS, SIAM Journal on Computing, IEEE TIT*.  
-- **Funding**: Secured 6 competitive research grants (NSFC, CAS, Beijing City).  
-- **Awards**:  
-  - Beijing High-Level Overseas Talent Program  
-  - Youth Innovation Promotion Association Membership (CAS)  
-  - CAS Outstanding Youth Award  
-- **Service**: Program Committee Member for **CAV 2025** and **QCNC 2025**.
+I am Ji Guan, an **Associate Research Professor** at the Institute of Software, Chinese Academy of Sciences. In 2014, I received my bachelor’s degree in mathematics from Sichuan University, China, and then obtained my Ph.D. degree in computer science from University of Technology Sydney, Australia in 2018. My research focus on systematically addressing the **security, privacy, and reliability of quantum algorithm, program, and hardware systems** by developing **formal method (verification) theories, algorithms, and tools**. By extending **formal methods** — a branch of computer science celebrated with multiple **Turing Awards** — to the quantum domain, I ensure that quantum systems operate reliably, securely, and efficiently.
+My research has been widely recognized for its foundational contributions to quantum computing and formal methods. I have published nearly 20 papers in internationally renowned venues, including **CAV, ACM CCS, SIAM Journal on Computing, IEEE TIT** and **FM**. As a principal investigator, I have secured six competitive research grants from the **National Natural Science Foundation of China, Chinese Academy of Sciences (CAS),** and **Beijing City**. These achievements earned me accolades such as the **Beijing High-Level Overseas Talent Program award, Youth Innovation Promotion Association Membership (CAS),** and the **CAS Outstanding Youth Award**. Additionally, I have been invited to serve as a **Program Committee Member** for prestigious conferences, including **CAV 2025 (only two scholars in Mainland China)** and **QCNC 2025**.
 
 ---
 ## **Research Focus**
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
 
-By extending **formal methods** — a branch of computer science celebrated with multiple Turing Awards — to the quantum domain, I bridge the gap between quantum theory and real-world applications, providing a foundation for **trustworthy quantum systems**.
+By extending **formal methods** — a branch of computer science celebrated with multiple Turing Awards — to the quantum domain, I bridge the gap between quantum theory and real-world applications, providing a foundation for **trustworthy quantum systems**. Specifically, my contributions are organized into three interconnected areas: **quantum system correctness, robust and privacy-preserving quantum algorithms**, and **quantum-accelerated formal verification**, culminating in the development of **VeriQ**, the world’s first comprehensive toolchain for trustworthy quantum computing.
 
 ---
 
