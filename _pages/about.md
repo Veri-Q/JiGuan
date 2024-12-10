@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -92,5 +92,8 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 
 These efforts will further enhance the **VeriQ** toolchain, transforming it into a leading platform for **end-to-end trustworthy quantum computing** and bridging the gap between theoretical advancements and practical quantum systems.
 
+---
+
+[**Publications**](publications.md)
 
 
