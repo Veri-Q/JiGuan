@@ -94,6 +94,6 @@ These efforts will further enhance the **VeriQ** toolchain, transforming it into
 
 ---
 
-[**Publications**](publications.md)
+
 
 
