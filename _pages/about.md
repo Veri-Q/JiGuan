@@ -37,6 +37,20 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 
 ---
 
+## 🏆 **Awards and Honors**
+
+- **2023** 🎓 **Beijing High-Level Overseas Talent Program (Top 30 people)**  
+  Recognized for outstanding contributions in the field of quantum computing and formal methods.  
+- **2023** 🌟 **ISCAS Outstanding Youth Award**  
+  Awarded by the Institute of Software, Chinese Academy of Sciences.  
+- **2022** 🚀 **Youth Innovation Promotion Association Membership (CAS)**  
+  Acknowledging innovative achievements in quantum system verification and trustworthy quantum machine learning.  
+- **2014-2018** 📚 **UTS ARC Discovery Scholarship**  
+  Awarded during Ph.D. study at the University of Technology Sydney.  
+- **2018** 🎖 **UTS FEIT PhD Post-Thesis Publication Scholarship**  
+  Recognized for exceptional research contributions post-thesis submission of the University of Technology Sydney.  
+
+---
 ## **Research Focus**
 
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
