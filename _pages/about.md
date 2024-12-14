@@ -103,6 +103,7 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 7. Su, Z., **Guan, J.**, and Li, L. (2018). *Efficient Quantum Repeater with Respect to Both Entanglement-Concentration Rate and Complexity*. **Physical Review A**, 97(1), 012325.  
 8. Liu, S., Wang, X., Zhou, L., **Guan, J.**, Li, Y., He, Y., Duan, R. and Ying, M., 2018. Q | SI ⟩ : A Quantum Programming Environment. In **Symposium on Real-Time and Hybrid Systems** (pp. 133-164). Springer, Cham.
 9. Liu S S, Zhou L, **Guan J**, et al. Q | SI ⟩ : a Quantum Programming Environment (in Chinese). **Sci Sin Inform**, 2017, 47: 1300–1315, doi: 10.1360/N112017-00095
+    
 ---
 
 ## **Preprint**
