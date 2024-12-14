@@ -16,6 +16,18 @@ My research focus on systematically addressing the **security, privacy, and reli
 My research has been widely recognized for its foundational contributions to quantum computing and formal methods. I have published nearly 20 papers in internationally renowned venues, including **CAV, ACM CCS, SIAM Journal on Computing, IEEE TIT** and **FM**. As a principal investigator, I have secured six competitive research grants from the **National Natural Science Foundation of China, Chinese Academy of Sciences (CAS),** and **Beijing City**. These achievements earned me accolades such as the **Beijing High-Level Overseas Talent Program award, Youth Innovation Promotion Association Membership (CAS),** and the **CAS Outstanding Youth Award**. Additionally, I have been invited to serve as a **Program Committee Member** for prestigious conferences, including **[CAV 2025](https://conferences.i-cav.org/2025/) (only two scholars in Mainland China)** and **[QCNC 2025](https://ieee-qcnc.org)**.
 
 ---
+
+## 📰 **News**
+
+- **[2024-07-01]** 📢 **Paper Accepted**: Our paper *"Measurement-based Verification of Quantum Markov Chains"* has been accepted at **CAV 2024**.  
+- **[2024-03-15]** 🏆 **Award Received**: I received the **Beijing High-Level Overseas Talent Program Award**.  
+- **[2023-11-20]** 📄 **New Publication**: *"Detecting Violations of Differential Privacy for Quantum Algorithms"* is published in **ACM CCS 2023**.  
+- **[2023-08-10]** 🚀 **Project Update**: Released a new tool **VeriQRobust** for robustness verification.  
+- **[2023-05-01]** 🎙 **Invited Talk**: Delivered a talk on *"Quantum Classifier Robustness"* at Nagoya University, Japan.
+  
+---
+
+
 ## **Research Focus**
 
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
