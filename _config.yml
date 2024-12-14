@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-3490-0029"
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Ji-Guan"
   dblp             : "https://dblp.org/pid/205/2739.html"
 
