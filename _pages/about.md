@@ -26,6 +26,16 @@ My research has been widely recognized for its foundational contributions to qua
 - **[2023-05-01]** 🎙 **Invited Talk**: Delivered a talk on *"Quantum Classifier Robustness"* at Nagoya University, Japan.
   
 ---
+## 🎓 **Join Our Team**
+
+I am actively engaged in the interdisciplinary research of **quantum computing** and **formal methods**. We are recruiting Master's and Ph.D. students, research interns, and postdoctoral researchers to explore areas such as:  
+- **Quantum system model checking**  
+- **Quantum privacy protection mechanisms**  
+- **Trustworthy quantum machine learning algorithms**  
+
+**[👉 Learn More](./recruitment)** about our research directions, benefits, and how to apply!  
+
+---
 
 ## 🎓 **Join Our Team**
 
