@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 # About Me
 
 I am Ji Guan, an **[Associate Professor](https://people.ucas.ac.cn/~guanji)** at the Institute of Software, Chinese Academy of Sciences. In 2014, I received my bachelor’s degree in [computational mathematics](http://math.scu.edu.cn/English.htm) from [Sichuan University](http://en.scu.edu.cn), China, and then obtained my Ph.D. degree in [quantum computing](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information) supervised by [Prof. Mingsheng Ying](https://www.uts.edu.au/staff/mingsheng.ying) and [Prof. Yuan Feng](https://www.cs.tsinghua.edu.cn/csen/info/1312/4483.htm) from [Centre for Quantum Software and Information](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information) of [University of Technology Sydney](https://www.uts.edu.au), Australia in 2018. 
@@ -16,6 +17,7 @@ My research has been widely recognized for its foundational contributions to qua
 
 ---
 ## **Research Focus**
+
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
 
 By extending **formal methods** — a branch of computer science celebrated with multiple Turing Awards — to the quantum domain, I bridge the gap between quantum theory and real-world applications, providing a foundation for **trustworthy quantum systems**. Specifically, my contributions are organized into three interconnected areas: **quantum system correctness, robust and privacy-preserving quantum algorithms**, and **quantum-accelerated formal verification**, culminating in the development of **[VeriQ](https://www.veri-q.com)**, the world’s first comprehensive toolchain for trustworthy quantum computing.
