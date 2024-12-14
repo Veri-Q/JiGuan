@@ -149,6 +149,7 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 ---
 
 ## **Refereed Journal Publications**
+
 1. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022). *New Quantum Algorithms for Computing Quantum Entropies and Distances*. **IEEE Transactions on Information Theory**, 70(8), 5653-5680.  
 2. Wang, Q., Zhang, Z., Chen, K., **Guan, J.\***, Fang, W., Liu, J., and Ying, M. (2022). *Quantum Algorithm for Fidelity Estimation*. **IEEE Transactions on Information Theory**, 69(1), 273-282.  
 3. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021). *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*. **SIAM Journal on Computing**, 50(3), 924-971.  
@@ -162,6 +163,7 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 ---
 
 ## **Preprint**
+
 1. **Guan, J.** (2024). *Optimal Mechanisms for Quantum Local Differential Privacy*. [arXiv:2407.13516](https://arxiv.org/abs/2407.13516).  
 2. Chen, K., Fang, W., **Guan, J.\***, Hong, X., Huang, M., Liu, J., Wang, Q., and Ying, M. (2022). *VeriQBench: A Benchmark for Multiple Types of Quantum Circuits*. [arXiv:2206.10880](https://arxiv.org/abs/2206.10880).  
 3. **Guan, J.**, Feng, Y., and Ying, M. (2018). *The Structure of Decoherence-Free Subsystems*. [arXiv:1802.04904](https://arxiv.org/abs/1802.04904).  
@@ -169,6 +171,7 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 ---
 
 ## **Invited Talks**
+
 1. **Robustness Verification of Quantum Classifiers** (2021.11.25), *Nagoya University, Japan*.  
 2. **Robustness Verification of Quantum Classifiers** (2021.12.08), *University of Science and Technology of China, China*.  
 
