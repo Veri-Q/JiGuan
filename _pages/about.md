@@ -104,6 +104,15 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 
 ---
 
+## 💰 **Funding Support**
+
+As a **Principal Investigator**, I have secured 6 competitive research grants from the following departments:  
+- 🏅 **National Natural Science Foundation of China (NSFC)**  
+- 🏛 **Chinese Academy of Sciences (CAS)**  
+- 🏙 **Beijing City Government**  
+
+---
+
 ## **Research Focus**
 
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
