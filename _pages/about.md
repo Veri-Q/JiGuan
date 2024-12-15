@@ -51,6 +51,38 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
   Recognized for exceptional research contributions post-thesis submission of the University of Technology Sydney.  
 
 ---
+
+## 📚 **Selected Publications**
+
+1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
+   *Measurement-based Verification of Quantum Markov Chains*.  
+   **CAV 2024**.  
+   [🔗 Full Paper](https://link-to-paper.pdf)  
+
+2. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+   *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
+   **ACM CCS 2023**.  
+   [🔗 Full Paper](https://link-to-paper.pdf)  
+
+3. **Guan, J.**, Fang, W., and Ying, M. (2022).  
+   *Verifying Fairness in Quantum Machine Learning*.  
+   **CAV 2022**.  
+   [🔗 Full Paper](https://link-to-paper.pdf)  
+
+4. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
+   *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
+   **IEEE Transactions on Information Theory**.  
+   [🔗 Full Paper](https://link-to-paper.pdf)  
+
+5. **Guan, J.**, Feng, Y., and Ying, M. (2018).  
+   *Decomposition of Quantum Markov Chains and Its Applications*.  
+   **Journal of Computer and System Sciences**.  
+   [🔗 Full Paper](https://link-to-paper.pdf)
+
+---
+
+**[👉 View Full Publication List](./publications)**  
+
 ## **Research Focus**
 
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
