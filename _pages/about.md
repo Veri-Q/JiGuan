@@ -13,6 +13,8 @@ I am Ji Guan, an **[Associate Professor](https://people.ucas.ac.cn/~guanji)** at
 
 My research focus on systematically addressing the **security, privacy, and reliability of quantum algorithm, program, and hardware systems** by developing **formal method (verification) theories, algorithms, and tools**. By extending **formal methods** — a branch of computer science celebrated with multiple **Turing Awards** — to the quantum domain, I ensure that quantum systems operate reliably, securely, and efficiently.
 
+**[👉 Learn More About My Research](./research)**  
+
 My research has been widely recognized for its foundational contributions to quantum computing and formal methods. I have published nearly 20 papers in internationally renowned venues, including **CAV, ACM CCS, SIAM Journal on Computing, IEEE TIT** and **FM**. As a principal investigator, I have secured six competitive research grants from the **National Natural Science Foundation of China, Chinese Academy of Sciences (CAS),** and **Beijing City**. These achievements earned me accolades such as the **Beijing High-Level Overseas Talent Program award, Youth Innovation Promotion Association Membership (CAS),** and the **CAS Outstanding Youth Award**. Additionally, I have been invited to serve as a **Program Committee Member** for prestigious conferences, including **[CAV 2025](https://conferences.i-cav.org/2025/) (only two scholars in Mainland China)** and **[QCNC 2025](https://ieee-qcnc.org)**.
 
 ---
