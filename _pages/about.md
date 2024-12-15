@@ -83,6 +83,27 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 
 **[👉 View Full Publication List](./publications)**  
 
+---
+## 👥 **Our Team**
+
+### 🎓 **Ph.D. Students**
+- **Mingyu Huang**  
+- **Zihao Li**
+
+### 📚 **Master's Students**
+- **Zhengyang Zhou**  
+- **Yecheng Qin**  
+- **Yi Zhan**
+
+### 🌍 **Visiting Scholars**
+- **Peng Yan**  
+- **Jingyi Mei**
+
+### 🧑‍💻 **Interns**
+- **Yanling Lin**
+
+---
+
 ## **Research Focus**
 
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
