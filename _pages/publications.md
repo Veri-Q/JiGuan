@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# **Publications**
-
 ## **Refereed Conference Publications**
 1. Lin, Y., **Guan, J.\***, Fang, W., Ying, M., and Su, Z. (2024). *A Robustness Verification Tool for Quantum Machine Learning Models*. In **FM 2024** (pp. 403-421). Springer.  
 2. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024). *Measurement-based Verification of Quantum Markov Chains*. In **CAV 2024** (pp. 533-554). Springer.  
