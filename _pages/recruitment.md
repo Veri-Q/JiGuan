@@ -2,6 +2,7 @@
 title: "Join Our Team"
 permalink: /recruitment
 layout: default
+author_profile: true
 ---
 
 ## 🎓 **Join Our Team**
