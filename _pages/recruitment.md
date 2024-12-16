@@ -1,7 +1,7 @@
 ---
+layout: archive
 title: "Join Our Team"
 permalink: /recruitment
-layout: default
 author_profile: true
 ---
 
