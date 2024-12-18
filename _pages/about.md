@@ -58,7 +58,7 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
    **CAV 2024**.    
    [🔗 Full Paper](https://link-to-paper.pdf)
 
-2. **Guan, J.**, Fang, W., and Ying, M. (2022).
+2. **Guan, J.**, Fang, W., and Ying, M. (2022).  
    *Verifying Fairness in Quantum Machine Learning*.    
    **CAV 2022**  
    [🔗 Full Paper](https://link-to-paper.pdf)
