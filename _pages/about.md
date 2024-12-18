@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Welcome to my website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am Ji Guan, an **[Associate Professor](https://people.ucas.ac.cn/~guanji)** at the Institute of Software, Chinese Academy of Sciences. In 2014, I received my bachelor’s degree in [computational mathematics](http://math.scu.edu.cn/English.htm) from [Sichuan University](http://en.scu.edu.cn), China, and then obtained my Ph.D. degree in [quantum computing](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information) supervised by [Prof. Mingsheng Ying](https://www.uts.edu.au/staff/mingsheng.ying) and [Prof. Yuan Feng](https://www.cs.tsinghua.edu.cn/csen/info/1312/4483.htm) from [Centre for Quantum Software and Information](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information) of [University of Technology Sydney](https://www.uts.edu.au), Australia in 2018. 
 
