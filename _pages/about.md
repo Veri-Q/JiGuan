@@ -19,13 +19,12 @@ My research has been widely recognized for its foundational contributions to qua
 
 ---
 
-## 📰 **News**
-
-- **[2024-07-01]** 📢 **Paper Accepted**: Our paper *"Measurement-based Verification of Quantum Markov Chains"* has been accepted at **CAV 2024**.  
-- **[2024-03-15]** 🏆 **Award Received**: I received the **Beijing High-Level Overseas Talent Program Award**.  
-- **[2023-11-20]** 📄 **New Publication**: *"Detecting Violations of Differential Privacy for Quantum Algorithms"* is published in **ACM CCS 2023**.  
-- **[2023-08-10]** 🚀 **Project Update**: Released a new tool **VeriQRobust** for robustness verification.  
-- **[2023-05-01]** 🎙 **Invited Talk**: Delivered a talk on *"Quantum Classifier Robustness"* at Nagoya University, Japan.
+## 📰 **Latest News**
+- **[2024-12]** 📢 **PC Member**: I serve as a PC member of **[CAV 2025](https://conferences.i-cav.org/2025/) (only two scholars in Mainland China)**.  
+- **[2024-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2025](https://ieee-qcnc.org)**.  
+- **[2024-04]** 📢 **Paper Accepted**: Our paper *"Measurement-based Verification of Quantum Markov Chains"* has been accepted at **CAV 2024**.  
+- **[2023-11]** 📄 **New Publication**: *"Detecting Violations of Differential Privacy for Quantum Algorithms"* is published in **ACM CCS 2023**.  
+- **[2023-05]** 🏆 **Award Received**: I received the **Beijing High-Level Overseas Talent Program Award**.  
   
 ---
 ## 🎓 **Join Our Team**
