@@ -15,16 +15,16 @@ My research focus on systematically addressing the **security, privacy, and reli
 
 **[👉 Learn More About My Research](./research)**  
 
-My research has been widely recognized for its foundational contributions to quantum computing and formal methods. I have published nearly 20 papers in internationally renowned venues, including **CAV, ACM CCS, SIAM Journal on Computing, IEEE TIT** and **FM**. As a principal investigator, I have secured six competitive research grants from the **National Natural Science Foundation of China, Chinese Academy of Sciences (CAS),** and **Beijing City**. These achievements earned me accolades such as the **Beijing High-Level Overseas Talent Program award, Youth Innovation Promotion Association Membership (CAS),** and the **CAS Outstanding Youth Award**. Additionally, I have been invited to serve as a **Program Committee Member** for prestigious conferences, including **[CAV 2025](https://conferences.i-cav.org/2025/) (only two scholars in Mainland China)** and **[QCNC 2025](https://ieee-qcnc.org)**.
-
 ---
 
 ## 📰 **Latest News**
 - **[2024-12]** 📢 **PC Member**: I serve as a PC member of **[CAV 2025](https://conferences.i-cav.org/2025/) (only two scholars in Mainland China)**.  
 - **[2024-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2025](https://ieee-qcnc.org)**.  
-- **[2024-04]** 📢 **Paper Accepted**: Our paper *"Measurement-based Verification of Quantum Markov Chains"* has been accepted at **CAV 2024**.  
+- **[2024-04]** 📄 **Paper Accepted**: Our paper *"Measurement-based Verification of Quantum Markov Chains"* has been accepted at **CAV 2024**.  
 - **[2023-11]** 📄 **New Publication**: *"Detecting Violations of Differential Privacy for Quantum Algorithms"* is published in **ACM CCS 2023**.  
-- **[2023-05]** 🏆 **Award Received**: I received the **Beijing High-Level Overseas Talent Program Award**.  
+- **[2023-05]** 🏆 **Award Received**: I received the **Beijing High-Level Overseas Talent Program Award**.
+
+**[👉 See More News](./news)**  
   
 ---
 ## 🎓 **Join Our Team**
