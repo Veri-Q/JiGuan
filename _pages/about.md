@@ -59,26 +59,41 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  
    **CAV 2024**.  
-   [🔗 Full Paper](https://link-to-paper.pdf)  
+   [🔗 Full Paper](https://link-to-paper.pdf)
 
-2. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+2. **Guan, J.**, Fang, W., and Ying, M. (2022).
+   *Verifying Fairness in Quantum Machine Learning*.
+   **CAV 2022** 
+   [🔗 Full Paper](https://link-to-paper.pdf)
+
+3. **Guan, J.**, Fang, W., and Ying, M. (2021).
+   *Robustness Verification of Quantum Classifiers*.
+   **CAV 2021**
+   [🔗 Full Paper](https://link-to-paper.pdf)
+
+4. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
    [🔗 Full Paper](https://link-to-paper.pdf)  
 
-3. **Guan, J.**, Fang, W., and Ying, M. (2022).  
-   *Verifying Fairness in Quantum Machine Learning*.  
-   **CAV 2022**.  
-   [🔗 Full Paper](https://link-to-paper.pdf)  
+5. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).
+   *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.
+   **SIAM Journal on Computing**
+   [🔗 Full Paper](https://link-to-paper.pdf) 
+   
+6. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).
+   *Quantum Algorithm for Fidelity Estimation*.
+   **IEEE Transactions on Information Theory**.
+   [🔗 Full Paper](https://link-to-paper.pdf) 
 
-4. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
+7. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
    *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
    **IEEE Transactions on Information Theory**.  
-   [🔗 Full Paper](https://link-to-paper.pdf)  
+   [🔗 Full Paper](https://link-to-paper.pdf)
 
-5. **Guan, J.**, Feng, Y., and Ying, M. (2018).  
-   *Decomposition of Quantum Markov Chains and Its Applications*.  
-   **Journal of Computer and System Sciences**.  
+8. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).
+   *A Robustness Verification Tool for Quantum Machine Learning Models*.
+   **FM 2024**  
    [🔗 Full Paper](https://link-to-paper.pdf)
 
 ---
@@ -108,10 +123,11 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 
 ## 💰 **Funding Support**
 
-As a **Principal Investigator**, I have secured 6 competitive research grants from the following departments:  
+As a **Principal Investigator**, I have secured 7 competitive research grants from the following departments:  
 - 🏅 **National Natural Science Foundation of China (NSFC)**  
 - 🏛 **Chinese Academy of Sciences (CAS)**  
-- 🏙 **Beijing City Government**  
+- 🏙 **Beijing City Government**
+- 🎓 **Institute of Software, Chinese Academy of Sciences**   
 
 
 ---
@@ -140,7 +156,7 @@ As a **Principal Investigator**, I have secured 6 competitive research grants fr
 5. **Guan, J.**, Feng, Y., and Ying, M. (2018). *Decomposition of Quantum Markov Chains and Its Applications*. **Journal of Computer and System Sciences**, 95, 55-68.  
 6. **Guan, J.**, Feng, Y., and Ying, M. (2018). *Super-activating Quantum Memory with Entanglement*. **Quantum Information & Computation**, 18(13&14), 1115-1124.  
 7. Su, Z., **Guan, J.**, and Li, L. (2018). *Efficient Quantum Repeater with Respect to Both Entanglement-Concentration Rate and Complexity*. **Physical Review A**, 97(1), 012325.  
-8. Liu, S., Wang, X., Zhou, L., **Guan, J.**, Li, Y., He, Y., Duan, R. and Ying, M., 2018. Q | SI ⟩ : A Quantum Programming Environment. In **Symposium on Real-Time and Hybrid Systems** (pp. 133-164). Springer, Cham.
+8. Liu, S., Wang, X., Zhou, L., **Guan, J.**, Li, Y., He, Y., Duan, R. and Ying, M., 2018. Q|SI>: A Quantum Programming Environment. In **Symposium on Real-Time and Hybrid Systems** (pp. 133-164). Springer, Cham.
 9. Liu S S, Zhou L, **Guan J**, et al. Q | SI ⟩ : a Quantum Programming Environment (in Chinese). **Sci Sin Inform**, 2017, 47: 1300–1315, doi: 10.1360/N112017-00095
     
 ---
