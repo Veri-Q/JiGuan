@@ -343,14 +343,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-<!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6XR7CF2T3T');
-</script>
-<!-- End Google Analytics -->
