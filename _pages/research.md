@@ -65,3 +65,26 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 
 **More details**: [https://www.veri-q.com](https://www.veri-q.com)
 
+---
+
+## **Future Research Directions**
+1. **Quantum Algorithms on NISQ Devices**  
+   - Optimize and implement quantum machine learning algorithms for applications like:  
+     - High-dimensional data classification  
+     - Quantum state discrimination  
+     - Entanglement detection  
+   - Validate experimentally on real quantum hardware to demonstrate **quantum advantage**.
+
+2. **Formal Verification Techniques**  
+   - Tackle key problems such as **termination analysis** and **automatic invariant generation** to ensure program correctness and reliability.
+
+3. **Quantum Circuit Optimization**  
+   - Develop tools for transpilation, synthesis, and optimization of dynamic quantum circuits:  
+     - **Circuit depth reduction**  
+     - **Noise mitigation**  
+     - **Hardware-specific optimization**
+
+These efforts will further enhance the **VeriQ** toolchain, transforming it into a leading platform for **end-to-end trustworthy quantum computing** and bridging the gap between theoretical advancements and practical quantum systems.
+
+---
+
