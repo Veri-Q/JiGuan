@@ -58,41 +58,41 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 
 1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  
-   **CAV 2024**.  
+   **CAV 2024**.    
    [🔗 Full Paper](https://link-to-paper.pdf)
 
 2. **Guan, J.**, Fang, W., and Ying, M. (2022).
-   *Verifying Fairness in Quantum Machine Learning*.
-   **CAV 2022** 
+   *Verifying Fairness in Quantum Machine Learning*.    
+   **CAV 2022**  
    [🔗 Full Paper](https://link-to-paper.pdf)
 
-3. **Guan, J.**, Fang, W., and Ying, M. (2021).
-   *Robustness Verification of Quantum Classifiers*.
-   **CAV 2021**
+4. **Guan, J.**, Fang, W., and Ying, M. (2021).  
+   *Robustness Verification of Quantum Classifiers*.  
+   **CAV 2021**  
    [🔗 Full Paper](https://link-to-paper.pdf)
 
-4. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+5. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
    [🔗 Full Paper](https://link-to-paper.pdf)  
 
-5. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).
-   *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.
-   **SIAM Journal on Computing**
+6. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
+   *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.  
+   **SIAM Journal on Computing**  
    [🔗 Full Paper](https://link-to-paper.pdf) 
    
-6. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).
-   *Quantum Algorithm for Fidelity Estimation*.
-   **IEEE Transactions on Information Theory**.
+7. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
+   *Quantum Algorithm for Fidelity Estimation*.  
+   **IEEE Transactions on Information Theory**.  
    [🔗 Full Paper](https://link-to-paper.pdf) 
 
-7. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
+8. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
    *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
    **IEEE Transactions on Information Theory**.  
    [🔗 Full Paper](https://link-to-paper.pdf)
 
-8. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).
-   *A Robustness Verification Tool for Quantum Machine Learning Models*.
+9. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
+   *A Robustness Verification Tool for Quantum Machine Learning Models*.  
    **FM 2024**  
    [🔗 Full Paper](https://link-to-paper.pdf)
 
