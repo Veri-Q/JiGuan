@@ -98,6 +98,20 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 **[👉 View Full Publication List](./publications)**  
 
 ---
+
+## 🛠 **Service**
+
+As part of my academic and professional responsibilities, I contribute to the scientific community through roles as a **Program Committee (PC) Member** and **Reviewer** for various prestigious conferences and journals.
+
+### 📋 **Program Committee Member**
+- **CAV 2025** - International Conference on Computer Aided Verification  
+- **QCNC 2025** - International Conference on Quantum Communications, Networking, and Computing 
+
+### 📝 **Reviewer**
+I have served as a reviewer for several top-tier journals and conferences, including:  
+**ASPLOS 2025, CDC 2024, QIP2024, CSL 2024, AQIS 2023, CAV 2021, IEEE QCE 2022, 2023 and 2024, PLanQC 2021, QPL 2020, COCOON 2018 and 2019, ICFEM 2019, SIAM Journal on Control and Optimization, the Science Bulletin, Journal of Computer Science and Technology, Information Processing Letters, IEEE Transactions on Emerging Topics in Computational Intelligence**
+
+---
 ## 👥 **Our Team**
 
 ### 🎓 **Ph.D. Students**
