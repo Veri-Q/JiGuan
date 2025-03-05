@@ -38,7 +38,7 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 ---
 
 ## 🏆 **Awards and Honors**
-- **204** 🎖 **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), China Association for Science and Technology**
+- **2024** 🎖 **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), China Association for Science and Technology**
   Recommended by China Computer Federation (CCF), only 5 scholars.
 - **2023** 🎓 **Beijing High-Level Overseas Talent Program (Top 30 people)**  
   Recognized for outstanding contributions in the field of quantum computing and formal methods.  
