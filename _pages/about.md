@@ -38,7 +38,7 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 ---
 
 ## 🏆 **Awards and Honors**
-- **2024** 🎖 **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), China Association for Science and Technology**
+- **2024** 🎖 **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), China Association for Science and Technology**  
   Recommended by China Computer Federation (CCF), only 5 scholars.
 - **2023** 🎓 **Beijing High-Level Overseas Talent Program (Top 30 people)**  
   Recognized for outstanding contributions in the field of quantum computing and formal methods.  
@@ -63,37 +63,37 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 2. **Guan, J.**, Fang, W., and Ying, M. (2022).  
    *Verifying Fairness in Quantum Machine Learning*.    
    **CAV 2022**  
-   [🔗 Full Paper](https://link-to-paper.pdf)
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20)
 
-4. **Guan, J.**, Fang, W., and Ying, M. (2021).  
+3. **Guan, J.**, Fang, W., and Ying, M. (2021).  
    *Robustness Verification of Quantum Classifiers*.  
    **CAV 2021**  
-   [🔗 Full Paper](https://link-to-paper.pdf)
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7)
 
-5. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+4. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
-   [🔗 Full Paper](https://link-to-paper.pdf)  
+   [🔗 Full Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)  
 
-6. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
+5. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
    *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.  
    **SIAM Journal on Computing**  
-   [🔗 Full Paper](https://link-to-paper.pdf) 
+   [🔗 Full Paper](https://epubs.siam.org/doi/10.1137/19M1299128)
    
-7. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
+6. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
    *Quantum Algorithm for Fidelity Estimation*.  
    **IEEE Transactions on Information Theory**.  
-   [🔗 Full Paper](https://link-to-paper.pdf) 
+   [🔗 Full Paper](https://ieeexplore.ieee.org/document/9875352) 
 
-8. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
+7. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
    *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
    **IEEE Transactions on Information Theory**.  
-   [🔗 Full Paper](https://link-to-paper.pdf)
+   [🔗 Full Paper](https://ieeexplore.ieee.org/document/10530179)
 
-9. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
+8. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
    *A Robustness Verification Tool for Quantum Machine Learning Models*.  
    **FM 2024**  
-   [🔗 Full Paper](10.1007/978-3-031-71162-6_21)
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_21)
 
 ---
 
@@ -136,7 +136,7 @@ I have served as a reviewer for several top-tier journals and conferences, inclu
 
 ## 💰 **Funding Support**
 
-As a **Principal Investigator**, I have secured 7 competitive research grants from the following departments:  
+As a **Principal Investigator**, I have secured 8 competitive research grants from the following departments:  
 - 🏅 **National Natural Science Foundation of China (NSFC)**  
 - 🏛 **Chinese Academy of Sciences (CAS)**  
 - 🏙 **Beijing City Government**
