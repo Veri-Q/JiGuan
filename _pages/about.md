@@ -58,7 +58,7 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  
    **CAV 2024**.    
-   [🔗 Full Paper](https://link-to-paper.pdf)
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-65633-0_24)
 
 2. **Guan, J.**, Fang, W., and Ying, M. (2022).  
    *Verifying Fairness in Quantum Machine Learning*.    
@@ -93,7 +93,7 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 9. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
    *A Robustness Verification Tool for Quantum Machine Learning Models*.  
    **FM 2024**  
-   [🔗 Full Paper](https://link-to-paper.pdf)
+   [🔗 Full Paper](10.1007/978-3-031-71162-6_21)
 
 ---
 
