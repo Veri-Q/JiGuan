@@ -16,6 +16,11 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 
 ## 📰 **Latest News**
+- **[2025-05]** 🧪 **New Paper** — Experimental robustness benchmark of quantum neural network on a superconducting quantum
+processor 📄 [arXiv:2505.16714](https://arxiv.org/pdf/2505.16714)
+
+In collaboration with USTC, we experimentally evaluated the **adversarial robustness of 20-qubit quantum neural networks** on the *Wukong* superconducting quantum computer. The study includes **training, adversarial attacks, adversarial learning**, and **robustness certification** on both classical and quantum datasets. Results show that QNNs possess intrinsic robustness advantages, and **adversarial training significantly enhances their resilience**. Our experiments also validate the **tightness of theoretical fidelity-based robustness bounds**.
+
 - **[2025-03]** 🏆 **Award Received**: I received the **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), CAST (China Association for Science and Technology)**.
 - **[2024-12]** 📢 **PC Member**: I serve as a PC member of **[CAV 2025](https://conferences.i-cav.org/2025/)**.  
 - **[2024-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2025](https://ieee-qcnc.org)**.  
