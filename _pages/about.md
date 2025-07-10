@@ -18,7 +18,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ## 📰 **Latest News**
 - **[2025-07]** 📄 **Paper Accepted** — My solo author paper *"Optimal Mechanisms for Quantum Local Differential Privacy"* has been accepted at **CAV 2024**. 📄 [arXiv:2407.1351](https://arxiv.org/abs/2407.13516)
 - **[2025-06]** 📄 **Talk Accepted** — My talk *"Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation "* has been accepted at **The First Workshop on Verification of Quantum Computing [VQC 2025](https://verifiedqc.github.io/2025/)**
-- **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[STESS 2025](https://tis.ios.ac.cn/SETSS2025/)**.  
+- **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/)**.  
 - **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[ChinaSoft 2025](https://tis.ios.ac.cn/SETSS2025/)**.  
 - **[2025-05]** 📄 **New Paper** — Experimental robustness benchmark of quantum neural network on a superconducting quantum
 processor 📄 [arXiv:2505.16714](https://arxiv.org/pdf/2505.16714)
@@ -79,27 +79,32 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
    **CAV 2021**  
    [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7)
 
-4. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+4. **Guan, J.** (2025).  
+   *Optimal Mechanisms for Quantum Local Differential Privacy*.  
+   **ACM CCS 2025**.  
+   [🔗 Full Paper](https://arxiv.org/abs/2407.13516) 
+
+5. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
    [🔗 Full Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)  
 
-5. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
+6. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
    *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.  
    **SIAM Journal on Computing**  
    [🔗 Full Paper](https://epubs.siam.org/doi/10.1137/19M1299128)
    
-6. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
+7. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
    *Quantum Algorithm for Fidelity Estimation*.  
    **IEEE Transactions on Information Theory**.  
    [🔗 Full Paper](https://ieeexplore.ieee.org/document/9875352) 
 
-7. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
+8. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
    *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
    **IEEE Transactions on Information Theory**.  
    [🔗 Full Paper](https://ieeexplore.ieee.org/document/10530179)
 
-8. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
+9. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
    *A Robustness Verification Tool for Quantum Machine Learning Models*.  
    **FM 2024**  
    [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_21)
