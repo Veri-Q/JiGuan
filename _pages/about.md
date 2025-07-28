@@ -19,7 +19,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 - **[2025-07]** 📄 **Paper Accepted** — My solo author paper *"Optimal Mechanisms for Quantum Local Differential Privacy"* has been accepted at **ACM CCS 2025**. 📄 [arXiv:2407.1351](https://arxiv.org/abs/2407.13516)
 - **[2025-06]** 📄 **Talk Accepted** — My talk *"Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation "* has been accepted at **The First Workshop on Verification of Quantum Computing [VQC 2025](https://verifiedqc.github.io/2025/)**
 - **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/)**.  
-- **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[ChinaSoft 2025](https://tis.ios.ac.cn/SETSS2025/)**.  
+- **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)**.  
 - **[2025-05]** 📄 **New Paper** — Experimental robustness benchmark of quantum neural network on a superconducting quantum
 processor 📄 [arXiv:2505.16714](https://arxiv.org/pdf/2505.16714)
 
