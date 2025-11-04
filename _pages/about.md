@@ -16,6 +16,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 
 ## 📰 **Latest News**
+- **[2025-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2026](https://www.ieee-qcnc.org/2026/)** and please submit your paper.  
 - **[2025-09]** 📄 **Paper Accepted** — Our paper *"Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits"* has been accepted at **IEEE TCAD**. 📄 [arXiv:2503.10340](https://arxiv.org/abs/2503.10340)
 - **[2025-08]** 📄 **Paper Accepted** — Our paper *"Checking continuous stochastic logic against quantum continuous-time Markov chains"* has been accepted at **Logical Methods in Computer Science (LMCS)**. 📄 [arXiv:2202.05412](https://arxiv.org/abs/2202.05412)
 - **[2025-07]** 📄 **Paper Accepted** — My solo author paper *"Optimal Mechanisms for Quantum Local Differential Privacy"* has been accepted at **ACM CCS 2025**. 📄 [arXiv:2407.1351](https://arxiv.org/abs/2407.13516)
