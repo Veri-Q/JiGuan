@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ji.png"
+  avatar           : "Ji-avatar-tight.png"
   name             : "Ji Guan"
   pronouns         : "he/his"  
   bio              : "Quantum Computing and Formal Methods"
