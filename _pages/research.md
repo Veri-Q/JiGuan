@@ -1,22 +1,19 @@
 ---
-layout: archive
-title: "Join Our Team"
-permalink: /recruitment
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
 
-## **Research Focus**
+## Research Overview
 
 In the **Noisy Intermediate-Scale Quantum (NISQ)** era, quantum systems face unprecedented challenges arising from their inherent state complexity (e.g., quantum superposition and entanglement), noise unpredictability, and measurement uncertainties. My research systematically addresses these critical issues by developing **formal method theories, algorithms, and tools** to ensure that quantum systems operate **reliably**, **securely**, and **efficiently**.
 
 By extending **formal methods** — a branch of computer science celebrated with multiple Turing Awards — to the quantum domain, I bridge the gap between quantum theory and real-world applications, providing a foundation for **trustworthy quantum systems**. Specifically, my contributions are organized into three interconnected areas: **quantum system correctness, robust and privacy-preserving quantum algorithms**, and **quantum-accelerated formal verification**, culminating in the development of **[VeriQ](https://www.veri-q.com)**, the world’s first comprehensive toolchain for trustworthy quantum computing.
 
----
+## Research Contributions
 
-## **Research Contributions**
-
-### **1. Correctness of Quantum Systems**
+### 1. Correctness of Quantum Systems
 Ensuring the correctness of quantum systems (protocols, algorithms, programs) is fundamental but complex due to the continuous nature of quantum states. My key contributions include:
 - Introducing **Quantum Markov Chains** as a formal model for quantum system evolution.
 - Developing **3-level decomposition techniques** (coherence, irreducibility, periodicity) for analyzing **reachability problems**.
@@ -29,9 +26,7 @@ Ensuring the correctness of quantum systems (protocols, algorithms, programs) is
 
 *These results are featured prominently in the monograph* **Model Checking Quantum Systems: Principles and Algorithms** *(Cambridge University Press).*
 
----
-
-### **2. Robust and Privacy-Preserving Quantum Algorithms**
+### 2. Robust and Privacy-Preserving Quantum Algorithms
 Quantum machine learning algorithms are highly susceptible to noise and privacy risks. I developed a formal framework to define and verify:
 - **Local robustness**, **global robustness**, and **differential privacy** for quantum algorithms.
 - Designed quantum (machine learning) algorithm models that are both **noise-resistant** and **privacy-preserving**.
@@ -40,9 +35,7 @@ Quantum machine learning algorithms are highly susceptible to noise and privacy 
 
 *These works were recognized as the "first step in the field" and were included in the German Federal Office for Information Security (BSI) quantum security report.*
 
----
-
-### **3. Quantum-Accelerated Formal Verification**
+### 3. Quantum-Accelerated Formal Verification
 To address the computational limitations of classical verification methods, I developed:
 - **Polynomial-time quantum algorithms** for fidelity estimation using techniques like **block encoding** and **quantum amplitude estimation**.
 - Algorithms to compute key quantum information metrics: **trace distance** and **entropy**.
@@ -50,9 +43,7 @@ To address the computational limitations of classical verification methods, I de
 
 **Key Publications**: *IEEE TIT 2023, 2024*, *QIC 2021*  
 
----
-
-### **4. VeriQ Toolchain: Trustworthy Quantum Computing**
+### 4. VeriQ Toolchain: Trustworthy Quantum Computing
 I co-led the development of **VeriQ**, the first comprehensive toolchain for trustworthy quantum computing. VeriQ offers:
 - **Quantum Design Automation (QDA)** for quantum chip optimization.
 - **Quantum Program Verification and Analysis** to ensure algorithm correctness.
@@ -65,9 +56,7 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 
 **More details**: [https://www.veri-q.com](https://www.veri-q.com)
 
----
-
-## **Future Research Directions**
+## Future Research Directions
 1. **Quantum Algorithms on NISQ Devices**  
    - Optimize and implement quantum machine learning algorithms for applications like:  
      - High-dimensional data classification  
@@ -87,4 +76,3 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 These efforts will further enhance the **VeriQ** toolchain, transforming it into a leading platform for **end-to-end trustworthy quantum computing** and bridging the gap between theoretical advancements and practical quantum systems.
 
 ---
-

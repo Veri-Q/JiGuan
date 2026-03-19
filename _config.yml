@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ji Guan/ Personal Homepage"
+title                    : "Ji Guan"
 title_separator          : "-"
 name                     : &name "Ji Guan"
-description              : &description "A computer science researcher"
+description              : &description "Associate Professor in quantum computing and formal methods"
 url                      : "http://www.veri-q.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/JiGuan" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -27,7 +27,7 @@ author:
   bio              : "Quantum Computing and Formal Methods"
   location         : "China"
   employer         : "Institute of Software, CAS"
-  uri              : # URL
+  uri              : "https://people.ucas.ac.cn/~guanji"
   email            : "guanji1992@gmail.com" 
 
   # Academic websites
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Veri-Q"
+  github           : "Veri-Q"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
