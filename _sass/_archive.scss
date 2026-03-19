@@ -9,7 +9,7 @@
     @include span(12 of 12);
   }
 
-  @include breakpoint($large) {
+  @include breakpoint($medium) {
     float: none;
     width: auto;
     min-width: 0;
