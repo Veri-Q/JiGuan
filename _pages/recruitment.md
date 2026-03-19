@@ -1,34 +1,42 @@
 ---
+layout: archive
 title: "Join Our Team"
-permalink: /recruitment/
+permalink: /recruitment
 author_profile: true
 ---
 
-I am actively recruiting master's students, Ph.D. students, interns, and postdoctoral researchers interested in quantum computing and formal methods.
+## 🎓 **Join Our Team**
 
-Current projects include quantum system verification, trustworthy quantum machine learning, quantum circuit optimization, and privacy-preserving quantum algorithms.
+I am actively engaged in the interdisciplinary research of **quantum computing** and **formal methods** and have led several cutting-edge projects. These projects focus on areas such as **quantum system model checking**, **trustworthy quantum machine learning algorithms**, **quantum circuit optimization**, and **quantum privacy protection**.
 
-## Research Directions
+---
+
+### 🌟 **Our Research Directions**
 We offer research opportunities in, but not limited to, the following areas:  
-- Model checking and formal verification of quantum systems
-- Quantum privacy protection and quantum differential privacy
-- Design and optimization of quantum and quantum machine learning algorithms
-- Efficient use of quantum computing resources in noisy environments
-- Development of trustworthy quantum computing toolchains
+- 📊 **Model checking and formal verification of quantum systems**  
+- 🔒 **Quantum privacy protection mechanisms and quantum differential privacy**  
+- ⚙️ **Design and optimization of quantum (machine learning) algorithms**  
+- 🧩 **Efficient utilization of quantum computing resources in noisy environments**  
+- 🛠 **Development of trustworthy quantum computing toolchains**  
 
-## Positions Available
+---
+
+### 🧑‍🎓 **Positions Available**
 We welcome applications for:  
 - Master's and Ph.D. students  
 - Research interns  
 - Postdoctoral researchers  
 
-## Why Join Us?
-- Work on cutting-edge topics at the intersection of quantum computing and formal methods
-- Participate in nationally and internationally collaborative projects
-- Contribute to both theory and tool building, with opportunities for real-system validation
-- Develop expertise in a rapidly growing research area with strong long-term impact
+---
 
-## Contact
+### 💼 **Why Join Us?**
+- **Cutting-Edge Research**: Work on innovative projects at the intersection of quantum computing and formal methods.  
+- **Strong Funding**: We offer ample funding to support research activities and projects.  
+- **Hands-On Experience**: Engage in national and international quantum computing projects.  
+- **Career Development**: Build expertise in a rapidly advancing field with significant growth opportunities.  
 
-- Email: [guanj@ios.ac.cn](mailto:guanj@ios.ac.cn)
-- Project website: [VeriQ](https://www.veri-q.com)
+---
+
+### 📬 **Contact Information**
+📧 **Email**: [guanj@ios.ac.cn](mailto:guanj@ios.ac.cn)  
+🌐 **Project Website**: [VeriQ Toolchain](https://www.veri-q.com)  
