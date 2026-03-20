@@ -164,7 +164,7 @@ analytics:
       code               :
     # Cloudflare Web Analytics example: token: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     cloudflare:
-      token              :
+      token              : "4e09539f18604ba9aab0b7f225c01a8f"
 
 
 # Reading Files
