@@ -62,7 +62,8 @@ img.author__avatar {
 }
 
 .author__content,
-.author__urls-wrapper {
+.author__urls-wrapper,
+.author__widget {
   background: rgba(255, 255, 255, 0.9);
   border: 1px solid var(--jg-border);
   border-radius: 20px;
@@ -106,6 +107,25 @@ img.author__avatar {
 
 .author__urls-wrapper {
   padding: 0.85rem 0.9rem 0.95rem;
+}
+
+.author__widget {
+  margin-top: 0.9rem;
+  padding: 0.85rem 0.95rem 0.95rem;
+}
+
+.author__widget-title {
+  margin-bottom: 0.7rem;
+  color: var(--jg-title);
+  font-size: 0.92rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+.author__visitor-map {
+  display: block;
+  width: 100%;
+  border-radius: 12px;
 }
 
 .author__urls-wrapper .btn {
@@ -257,6 +277,7 @@ img.author__avatar {
 
   .author__content,
   .author__urls-wrapper,
+  .author__widget,
   .archive__item {
     border-radius: 16px;
   }
