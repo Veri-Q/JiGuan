@@ -48,10 +48,14 @@ body {
 
 .author__avatar {
   margin-bottom: 1rem;
+  position: relative;
 }
 
 .author__avatar img,
 img.author__avatar {
+  display: block;
+  width: 100%;
+  max-width: 215px;
   border-radius: 24px;
   border: 3px solid rgba(255, 255, 255, 0.96);
   box-shadow: 0 18px 40px rgba(15, 23, 42, 0.12);
@@ -66,14 +70,25 @@ img.author__avatar {
 }
 
 .author__content {
-  padding: 1rem 1.1rem 0.95rem;
+  padding: 1.05rem 1.1rem 1rem;
   margin-bottom: 0.9rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.author__content::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 4px;
+  background: linear-gradient(90deg, var(--jg-accent), rgba(15, 92, 122, 0.18));
 }
 
 .author__name {
   color: var(--jg-title);
   font-size: 1.35rem;
   letter-spacing: -0.01em;
+  margin-bottom: 0.1rem;
 }
 
 .author__pronouns {
@@ -90,24 +105,64 @@ img.author__avatar {
 }
 
 .author__urls-wrapper {
-  padding: 0.8rem 1rem 0.95rem;
+  padding: 0.85rem 0.9rem 0.95rem;
 }
 
 .author__urls-wrapper .btn {
   display: none;
 }
 
+.author__urls {
+  margin-top: 0.15rem;
+}
+
 .author__urls li {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
   margin-bottom: 0.42rem;
+  padding: 0.45rem 0.55rem;
+  border-radius: 12px;
+  line-height: 1.45;
+  transition: background-color 0.18s ease, transform 0.18s ease;
+}
+
+.author__urls li:hover {
+  background: var(--jg-accent-soft);
+  transform: translateX(2px);
 }
 
 .author__urls a,
 .author__urls .author__desktop {
   font-size: 0.95rem;
+  color: var(--global-text-color);
+  width: 100%;
 }
 
 .author__urls a:hover {
   color: var(--jg-accent);
+}
+
+.author__urls i,
+.author__urls .icon-pad-right {
+  color: var(--jg-accent);
+  min-width: 1.15rem;
+}
+
+.author__desktop {
+  color: var(--jg-text-soft);
+}
+
+.sidebar .author__name,
+.sidebar .author__pronouns,
+.sidebar .author__bio {
+  text-align: left;
+}
+
+@media screen and (min-width: 1024px) {
+  .sidebar.sticky {
+    top: 88px;
+  }
 }
 
 .page {
@@ -195,6 +250,11 @@ img.author__avatar {
 }
 
 @media screen and (max-width: 1023px) {
+  .author__avatar img,
+  img.author__avatar {
+    max-width: 180px;
+  }
+
   .author__content,
   .author__urls-wrapper,
   .archive__item {
