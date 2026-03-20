@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ji Guan/ Personal Homepage"
+title                    : "Ji Guan"
 title_separator          : "-"
 name                     : &name "Ji Guan"
 description              : &description "A computer science researcher"
@@ -26,11 +26,11 @@ author:
   name             : "Ji Guan"
   pronouns         : "he/his"  
   bio              : "Quantum Computing and Formal Methods"
-  location         : "China"
+  location         : "Beijing, China"
   employer         : "Institute of Software, Chinese Academy of Sciences"
   employer_uri     : "http://www.is.cas.cn"
   uri              : # URL
-  email            : "guanji1992@gmail.com" 
+  email            : "guanj@ios.ac.cn" 
 
   # Academic websites
   academia         : # URL

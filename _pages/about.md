@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👤 About Me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,13 @@ redirect_from:
 
 I am Ji Guan, an **[Associate Professor](https://people.ucas.ac.cn/~guanji)** at the Institute of Software, Chinese Academy of Sciences. In 2014, I received my bachelor’s degree in [computational mathematics](http://math.scu.edu.cn/English.htm) from [Sichuan University](http://en.scu.edu.cn), China, and then obtained my Ph.D. degree in [quantum computing](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information) supervised by [Prof. Mingsheng Ying](https://www.uts.edu.au/staff/mingsheng.ying) and [Prof. Yuan Feng](https://www.cs.tsinghua.edu.cn/csen/info/1312/4483.htm) from [Centre for Quantum Software and Information](https://www.uts.edu.au/research-and-teaching/our-research/centre-quantum-software-and-information) of [University of Technology Sydney](https://www.uts.edu.au), Australia in 2018. 
 
-I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My research focus on systematically addressing the **security, privacy, and reliability of quantum algorithm, program, and hardware systems** by developing **formal method (verification) theories, algorithms, and tools**. By extending **formal methods** — a branch of computer science celebrated with multiple **Turing Awards** — to the quantum domain, I ensure that quantum systems operate reliably, securely, and efficiently.
+I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My research focuses on systematically addressing the **security, privacy, and reliability of quantum algorithms, programs, and hardware systems** by developing **formal method theories, algorithms, and tools**. By extending formal methods to the quantum domain, I aim to ensure that quantum systems operate reliably, securely, and efficiently.
 
-**[👉 Learn More About My Research](./research)**  
+**[Learn more about my research](./research)**  
 
 ---
 
-## 📰 **Latest News**
+## Latest News
 - **[2026-03]** 📄 **Paper Accepted** — Our paper *"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"* has been accepted at **SCIENCE CHINA Physics, Mechanics & Astronomy**. 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search"* has been accepted at **DAC 2026**. 📄 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantumprocessors"* has been accepted at **TCS**. 📄 
@@ -27,37 +27,37 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 - **[2025-09]** 🏆**Awarded CCF–QuantumCTek Quantum Superconducting Quantum Computing Collaborative Research Project**.  
 - **[2025-09]** 📄 **Paper Accepted** — Our paper *"Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits"* has been accepted at **IEEE TCAD**. 📄 [arXiv:2503.10340](https://arxiv.org/abs/2503.10340)
 
-**[👉 See More News](./news)**  
+**[See more news](./news)**  
   
 ---
-## 🎓 **Join Our Team**
+## Join Our Team
 
-I am actively engaged in the interdisciplinary research of **quantum computing** and **formal methods**. We are recruiting Master's and Ph.D. students, research interns, and postdoctoral researchers to explore areas such as:  
-- **Quantum system model checking**  
-- **Quantum privacy protection mechanisms**  
-- **Trustworthy quantum machine learning algorithms**  
+We are recruiting Master's and Ph.D. students, research interns, and postdoctoral researchers interested in the intersection of **quantum computing** and **formal methods**. Current topics include:
+- **Model checking and verification of quantum systems**
+- **Quantum privacy protection mechanisms**
+- **Trustworthy quantum machine learning**
 
-**[👉 Learn More](./recruitment)** about our research directions, benefits, and how to apply!  
+**[Learn more](./recruitment)** about research directions, support, and how to apply.  
 
 ---
 
-## 🏆 **Awards and Honors**
-- **2024** 🎖 **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), China Association for Science and Technology**  
+## Awards and Honors
+- **2024** Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), China Association for Science and Technology  
   Recommended by China Computer Federation (CCF), only 5 scholars.
-- **2023** 🎓 **Beijing High-Level Overseas Talent Program (Top 30 people)**  
+- **2023** Beijing High-Level Overseas Talent Program (Top 30 people)  
   Recognized for outstanding contributions in the field of quantum computing and formal methods.  
-- **2023** 🌟 **ISCAS Outstanding Youth Award**  
+- **2023** ISCAS Outstanding Youth Award  
   Awarded by the Institute of Software, Chinese Academy of Sciences.  
-- **2022** 🚀 **Youth Innovation Promotion Association Membership (CAS)**  
+- **2022** Youth Innovation Promotion Association Membership (CAS)  
   Acknowledging innovative achievements in quantum system verification and trustworthy quantum machine learning.  
-- **2014-2018** 📚 **UTS ARC Discovery Scholarship**  
+- **2014-2018** UTS ARC Discovery Scholarship  
   Awarded during Ph.D. study at the University of Technology Sydney.  
-- **2018** 🎖 **UTS FEIT PhD Post-Thesis Publication Scholarship**  
+- **2018** UTS FEIT PhD Post-Thesis Publication Scholarship  
   Recognized for exceptional research contributions post-thesis submission of the University of Technology Sydney.  
 
 ---
 
-## 📚 **Selected Publications**
+## Selected Publications
 
 1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  
@@ -84,89 +84,55 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
    **ACM CCS 2023**.  
    [🔗 Full Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)  
 
-6. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
-   *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.  
-   **SIAM Journal on Computing**  
-   [🔗 Full Paper](https://epubs.siam.org/doi/10.1137/19M1299128)
-   
-7. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
-   *Quantum Algorithm for Fidelity Estimation*.  
-   **IEEE Transactions on Information Theory**.  
-   [🔗 Full Paper](https://ieeexplore.ieee.org/document/9875352) 
+---
 
-8. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
-   *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
-   **IEEE Transactions on Information Theory**.  
-   [🔗 Full Paper](https://ieeexplore.ieee.org/document/10530179)
-
-9. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
-   *A Robustness Verification Tool for Quantum Machine Learning Models*.  
-   **FM 2024**  
-   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_21)
-   
-10. Li, Z., **Guan, J.**, and Ying, M. (2026).  
-   *QSegSim: A Symbolic Simulator for Qiskit WhileLoops using Sequential Quantum Circuits*.  
-   **FM 2026**
-   
-11. Huang, M., **Guan, J.**, Fang, W., and Ying, M. (2025).  
-    *Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits*.  
-    **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**  
-    [🔗 Full Paper](https://doi.org/10.1109/tcad.2025.3623498)
-
-12. Li, C., Zhou, X., **Guan, J.**, Meng, F., Zhu, P., and Luo, Y. (2026).  
-    *Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search*.  
-    **DAC 2026**
+**[View full publication list](./publications)**  
 
 ---
 
-**[👉 View Full Publication List](./publications)**  
+## Service
 
----
+I contribute to the research community through editorial service, program committee work, and peer review.
 
-## 🛠 **Service**
-
-As part of my academic and professional responsibilities, I contribute to the scientific community through roles as a **Program Committee (PC) Member** and **Reviewer** for various prestigious conferences and journals.
-
-### 📋 **Program Committee Member**
+### Program Committee Member
 - **CAV 2025/2026** - International Conference on Computer Aided Verification  
 - **QCNC 2025/2026** - International Conference on Quantum Communications, Networking, and Computing
 - **IEEE ICC 2026** - IEEE International Conference on Communications
 
-### 📝 **Reviewer**
+### Reviewer
 I have served as a reviewer for several top-tier journals and conferences, including:  
 **ASPLOS 2025, CDC 2024, QIP2024, CSL 2024, AQIS 2023, CAV 2021, IEEE QCE 2022, 2023 and 2024, PLanQC 2021, QPL 2020, COCOON 2018 and 2019, ICFEM 2019, SIAM Journal on Control and Optimization, the Science Bulletin, Journal of Computer Science and Technology, Information Processing Letters, IEEE Transactions on Emerging Topics in Computational Intelligence**
 
 ---
-## 👥 **Our Team**
+## Team
 
-### 🎓 **Ph.D. Students**
+### Ph.D. Students
 - **Mingyu Huang**  
 - **Zihao Li**
 
-### 📚 **Master's Students**
+### Master's Students
 - **Zhengyang Zhou**  
 - **Yecheng Qin**  
 - **Yi Zhan**
 
-### 🌍 **Visiting Scholars**
+### Visiting Scholars
 - **Peng Yan**  
 - **Jingyi Mei**
 
-### 🧑‍💻 **Interns**
+### Interns
 - **Yanling Lin**
 
 ---
 
-## 💰 **Funding Support**
+## Funding Support
 
-As a **Principal Investigator**, I have secured 8 competitive research grants from the following departments:  
-- 🏅 **National Natural Science Foundation of China (NSFC)**  
-- 🏛 **Chinese Academy of Sciences (CAS)**  
-- 🏙 **Beijing City Government**
-- 🎓 **Institute of Software, Chinese Academy of Sciences**   
+As a Principal Investigator, I have secured competitive research grants from:
+- **National Natural Science Foundation of China (NSFC)**
+- **Chinese Academy of Sciences (CAS)**
+- **Beijing Municipal Government**
+- **Institute of Software, Chinese Academy of Sciences**
 
 ---
-
 
 
 
