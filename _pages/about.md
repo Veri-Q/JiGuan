@@ -59,16 +59,63 @@ I am actively engaged in the interdisciplinary research of **quantum computing**
 
 ## 📚 **Selected Publications**
 
-1. **Guan, J.\***, Feng, Y., Turrini, A., and Ying, M. *Measurement-based Verification of Quantum Markov Chains*. **CAV 2024**. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-65633-0_24)
-2. **Guan, J.\***, Fang, W., and Ying, M. *Verifying Fairness in Quantum Machine Learning*. **CAV 2022**. [Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20)
-3. **Guan, J.\***, Fang, W., and Ying, M. *Robustness Verification of Quantum Classifiers*. **CAV 2021**. [Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7)
-4. **Guan, J.\***. *Optimal Mechanisms for Quantum Local Differential Privacy*. **ACM CCS 2025**. [Paper](https://arxiv.org/abs/2407.13516)
-5. **Guan, J.\***, Fang, W., Huang, M., and Ying, M. *Detecting Violations of Differential Privacy for Quantum Algorithms*. **ACM CCS 2023**. [Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)
-6. Wang, Q., Zhang, Z., Chen, K., **Guan, J.\***, Fang, W., Liu, J., and Ying, M. *Quantum Algorithm for Fidelity Estimation*. **IEEE Transactions on Information Theory**. [Paper](https://ieeexplore.ieee.org/document/9875352)
-7. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. *New Quantum Algorithms for Computing Quantum Entropies and Distances*. **IEEE Transactions on Information Theory**. [Paper](https://ieeexplore.ieee.org/document/10530179)
-8. Huang, M., **Guan, J.\***, Fang, W., and Ying, M. *Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits*. **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**. [Paper](https://doi.org/10.1109/tcad.2025.3623498)
-9. Mei, J., Xu, M., **Guan, J.**, Deng, Y., and Yu, N. *Checking Continuous Stochastic Logic Against Quantum Continuous-time Markov Chains*. **Logical Methods in Computer Science**.
-10. Zhang, H. F., Chen, Z. Y., Wang, P., Guo, L. L., Wang, T. L., Yang, X. Y., Zhao, R. Z., Zhao, Z. A., Zhang, S., Du, L., Tao, H. R., ..., **Guan, J.\***, Duan, P., and Guo, G. *Experimental Robustness Benchmark of Quantum Neural Network on a Superconducting Quantum Processor*. **SCIENCE CHINA Physics, Mechanics & Astronomy**.
+1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
+   *Measurement-based Verification of Quantum Markov Chains*.  
+   **CAV 2024**.    
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-65633-0_24)
+
+2. **Guan, J.**, Fang, W., and Ying, M. (2022).  
+   *Verifying Fairness in Quantum Machine Learning*.    
+   **CAV 2022**  
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20)
+
+3. **Guan, J.**, Fang, W., and Ying, M. (2021).  
+   *Robustness Verification of Quantum Classifiers*.  
+   **CAV 2021**  
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7)
+
+4. **Guan, J.** (2025).  
+   *Optimal Mechanisms for Quantum Local Differential Privacy*.  
+   **ACM CCS 2025**.  
+   [🔗 Full Paper](https://arxiv.org/abs/2407.13516) 
+
+5. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+   *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
+   **ACM CCS 2023**.  
+   [🔗 Full Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)  
+
+6. Bei, X., Chen, S., **Guan, J.**, Qiao, Y., and Sun, X. (2021).  
+   *From Independent Sets and Vertex Colorings to Isotropic Spaces and Isotropic Decompositions*.  
+   **SIAM Journal on Computing**  
+   [🔗 Full Paper](https://epubs.siam.org/doi/10.1137/19M1299128)
+   
+7. Wang, Q., Zhang, Z., Chen, K., **Guan, J.**, Fang, W., Liu, J., and Ying, M. (2022).  
+   *Quantum Algorithm for Fidelity Estimation*.  
+   **IEEE Transactions on Information Theory**.  
+   [🔗 Full Paper](https://ieeexplore.ieee.org/document/9875352) 
+
+8. Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. (2022).  
+   *New Quantum Algorithms for Computing Quantum Entropies and Distances*.  
+   **IEEE Transactions on Information Theory**.  
+   [🔗 Full Paper](https://ieeexplore.ieee.org/document/10530179)
+
+9. Lin, Y., **Guan, J.**, Fang, W., Ying, M., and Su, Z. (2024).  
+   *A Robustness Verification Tool for Quantum Machine Learning Models*.  
+   **FM 2024**  
+   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_21)
+   
+10. Li, Z., **Guan, J.**, and Ying, M. (2026).  
+   *QSegSim: A Symbolic Simulator for Qiskit WhileLoops using Sequential Quantum Circuits*.  
+   **FM 2026**
+   
+11. Huang, M., **Guan, J.**, Fang, W., and Ying, M. (2025).  
+    *Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits*.  
+    **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems**  
+    [🔗 Full Paper](https://doi.org/10.1109/tcad.2025.3623498)
+
+12. Li, C., Zhou, X., **Guan, J.**, Meng, F., Zhu, P., and Luo, Y. (2026).  
+    *Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search*.  
+    **DAC 2026**
 
 ---
 
@@ -119,7 +166,6 @@ As a **Principal Investigator**, I have secured 8 competitive research grants fr
 - 🎓 **Institute of Software, Chinese Academy of Sciences**   
 
 ---
-
 
 
 
