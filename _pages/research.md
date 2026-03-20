@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Join Our Team"
-permalink: /recruitment
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -87,4 +87,3 @@ I co-led the development of **VeriQ**, the first comprehensive toolchain for tru
 These efforts will further enhance the **VeriQ** toolchain, transforming it into a leading platform for **end-to-end trustworthy quantum computing** and bridging the gap between theoretical advancements and practical quantum systems.
 
 ---
-
