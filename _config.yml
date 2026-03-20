@@ -28,6 +28,7 @@ author:
   bio              : "Quantum Computing and Formal Methods"
   location         : "China"
   employer         : "Institute of Software, Chinese Academy of Sciences"
+  employer_uri     : "http://www.is.cas.cn"
   uri              : # URL
   email            : "guanji1992@gmail.com" 
 
