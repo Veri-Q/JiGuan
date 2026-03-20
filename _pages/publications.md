@@ -35,8 +35,8 @@ author_profile: true
 9. Su, Z., **Guan, J.**, and Li, L. (2018). *Efficient Quantum Repeater with Respect to Both Entanglement-Concentration Rate and Complexity of Local Operations and Classical Communication*. **Physical Review A**, 97(1), 012325.
 10. Mei, J., Xu, M., **Guan, J.**, Deng, Y., and Yu, N. (2025). *Checking Continuous Stochastic Logic Against Quantum Continuous-time Markov Chains*. **Logical Methods in Computer Science**.
 11. Zhang, H. F., Chen, Z. Y., Wang, P., Guo, L. L., Wang, T. L., Yang, X. Y., Zhao, R. Z., Zhao, Z. A., Zhang, S., Du, L., Tao, H. R., ..., **Guan, J.\***, Duan, P., and Guo, G. (2025). *Experimental Robustness Benchmark of Quantum Neural Network on a Superconducting Quantum Processor*. **SCIENCE CHINA Physics, Mechanics & Astronomy**.
-12. Liu, S., Zhou, L., **Guan, J.**, et al. (2017). *Q|SI⟩: a Quantum Programming Environment (in Chinese)*. **Sci Sin Inform**, 47, 1300-1315.
-13. Liu, S., Wang, X., Zhou, L., **Guan, J.**, Li, Y., He, Y., Duan, R., and Ying, M. (2018). *Q|SI⟩: A Quantum Programming Environment*. In **Symposium on Real-Time and Hybrid Systems** (pp. 133-164). Springer.
+12. Liu, S., Zhou, L., **Guan, J.**, et al. (2017). *Q\|SI⟩: a Quantum Programming Environment (in Chinese)*. **Sci Sin Inform**, 47, 1300-1315.
+13. Liu, S., Wang, X., Zhou, L., **Guan, J.**, Li, Y., He, Y., Duan, R., and Ying, M. (2018). *Q\|SI⟩: A Quantum Programming Environment*. In **Symposium on Real-Time and Hybrid Systems** (pp. 133-164). Springer.
 
 ---
 
