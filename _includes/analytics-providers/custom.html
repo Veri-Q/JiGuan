@@ -1,3 +1,21 @@
 <!-- start custom analytics snippet -->
 
+{% if site.analytics.custom.goatcounter.code %}
+  <script
+    data-goatcounter="https://{{ site.analytics.custom.goatcounter.code }}.goatcounter.com/count"
+    async
+    src="//gc.zgo.at/count.v5.js"
+    crossorigin="anonymous"
+    integrity="sha384-atnOLvQb9t+jTSipvd75X2yginT4PjVbqDdlJAmxMm+wYElFmeR6EmLP5bYeoRVQ">
+  </script>
+{% endif %}
+
+{% if site.analytics.custom.cloudflare.token %}
+  <script
+    defer
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon='{"token":"{{ site.analytics.custom.cloudflare.token }}"}'>
+  </script>
+{% endif %}
+
 <!-- end custom analytics snippet -->
