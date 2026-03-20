@@ -159,6 +159,11 @@ img.author__avatar {
   width: 100%;
 }
 
+.author__urls .author__desktop {
+  white-space: normal;
+  word-break: normal;
+}
+
 .author__urls a:hover {
   color: var(--jg-accent);
 }
