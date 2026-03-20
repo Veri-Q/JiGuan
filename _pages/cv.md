@@ -7,58 +7,85 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Personal Information
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **Email:** [guanji1992@gmail.com](mailto:guanji1992@gmail.com)
+- **Affiliation:** [Key Laboratory of System Software (Chinese Academy of Sciences)](http://klss.ios.ac.cn/), Institute of Software, Chinese Academy of Sciences
+- **Address:** 4 South Fourth Street, Zhong Guan Cun, Beijing 100190, China
+- **Personal Website:** [https://www.veri-q.com/JiGuan/](https://www.veri-q.com/JiGuan/)
+- **ORCID:** [0000-0002-3490-0029](https://orcid.org/my-orcid?orcid=0000-0002-3490-0029)
+- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en)
+- **DBLP:** [Profile](https://dblp.uni-trier.de/pid/205/2739.html)
+- **H-index:** 12
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research Interests
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Interplay between Quantum Computing and Formal Methods:** model checking of quantum systems; trustworthy quantum and quantum machine learning algorithms, including robustness, fairness, and privacy; quantum circuit and program design automation; and quantum algorithms for verification-relevant primitives such as fidelity and distances.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Highlights
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Publications in **CAV (2021/2022/2024)**, **ACM CCS (2023/2025)**, **IEEE TIT (2023/2024)**, **SICOMP**, **FM (2024/2026)**, **IEEE TCAD**, and **DAC 2026**
+- Co-lead the [VeriQ](https://www.veri-q.com) trustworthy quantum computing toolchain spanning verification, robustness, and privacy
+- Hardware-facing collaboration on robustness assessment and benchmarking on a superconducting quantum processor, including Origin Wukong
+
+## Education
+
+### University of Technology Sydney, Australia
+- **Ph.D. in Quantum Computing**, August 2018
+- Centre for Quantum Software and Information
+- Thesis: *Decomposition of Quantum Markov Chains and Its Applications*
+- Supervisors: [Prof. Mingsheng Ying](https://www.uts.edu.au/staff/mingsheng.ying) and [Prof. Yuan Feng](https://www.cs.tsinghua.edu.cn/csen/info/1312/4483.htm)
+
+### Sichuan University, China
+- **B.S. in Computational Mathematics**, June 2014
+
+## Professional Experience
+
+- **Research Associate Professor**, Institute of Software, Chinese Academy of Sciences, October 2022 to present
+- **Postdoctoral Fellow / Assistant Researcher**, Institute of Software, Chinese Academy of Sciences, September 2018 to September 2022
+
+## Selected Publications
+
+- **Guan, J.\***, Feng, Y., Turrini, A., and Ying, M. *Measurement-based Verification of Quantum Markov Chains*. **CAV 2024**
+- **Guan, J.\***, Fang, W., and Ying, M. *Verifying Fairness in Quantum Machine Learning*. **CAV 2022**
+- **Guan, J.\***, Fang, W., and Ying, M. *Robustness Verification of Quantum Classifiers*. **CAV 2021**
+- **Guan, J.\***. *Optimal Mechanisms for Quantum Local Differential Privacy*. **ACM CCS 2025**
+- **Guan, J.\***, Fang, W., Huang, M., and Ying, M. *Detecting Violations of Differential Privacy for Quantum Algorithms*. **ACM CCS 2023**
+- Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. *New Quantum Algorithms for Computing Quantum Entropies and Distances*. **IEEE Transactions on Information Theory**, 2024
+
+Full publication list: [Publications](./publications)
+
+## Research Grants and Funding
+
+- **Fundamental Algorithms and Core Software for Quantum Computers**, National Science and Technology Major Project, Subproject/Task Lead, 2025-2029, **RMB 2.60M**
+- **Formal Verification and Training for Robust Quantum Machine Learning**, NSFC, Principal Investigator, 2025-2027, **RMB 0.30M**
+- **SAT-Based Formal Verification and Automated Design of Quantum Circuits**, CAS Future Partner Network Grant, Co-PI, 2026-2028, **RMB 0.30M**
+- **Multi-Task Quantum Scheduling System for Quantum Error Correction**, CCF-QuantumCtek collaborative project, PI, 2026, **RMB 0.20M**
+- **CAST Young Talent Support Program**, PI, 2024-2026, **RMB 0.30M**
+- **Youth Innovation Promotion Association, CAS**, PI, 2023-2026, **RMB 0.80M**
+- **Distinguished Talent Development Program, ISCAS**, PI, 2023-2026, **RMB 0.80M**
+- **Beijing High-Level Overseas Talent Program**, PI, 2023-2024, **RMB 0.10M**
+
+## Awards
+
+- Young Elite Scientists Sponsorship Program, CAST, **Top 5 in China Computer Federation** (2024)
+- Beijing High-Level Overseas Talent Program (2023)
+- ISCAS Outstanding Youth Award (2023)
+- Youth Innovation Promotion Association of the Chinese Academy of Sciences (2022)
+- UTS ARC Discovery Scholarship (2014-2018)
+- UTS International Research Scholarship (2014-2018)
+- UTS FEIT PhD Post-Thesis Publication Scholarship (2018)
+
+## Service
+
+- **Program Committee Member:** CAV 2025/2026, QCNC 2025/2026, IEEE ICC 2026, SETSS 2025, ChinaSoft 2025
+- **Editorial Board Member:** Theoretical Computer Science Section, *Frontiers in Computer Science*
+- **Reviewer:** CAV, ASPLOS, CDC, QIP, CSL, AQIS, IEEE QCE, PLanQC, QPL, COCOON, ICFEM, ACM Transactions on Quantum Computing, IEEE Transactions on Information Theory, SIAM Journal on Control and Optimization, *Science Bulletin*, *Journal of Computer Science and Technology*, *Information Processing Letters*, and *IEEE Transactions on Emerging Topics in Computational Intelligence*
+
+## Selected Talks
+
+- *Model Checking Applied to Quantum Physics*. **QPL 2019**
+- *Verifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation via a Software Tool*. **VQC 2025**
+- *Verifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation via a Software Tool*. **SETSS 2025**
+- *Robustness Verification of Quantum Classifiers*. Nagoya University, Japan, 2021-11-25
+- *Robustness Verification of Quantum Classifiers*. University of Science and Technology of China, China, 2021-12-08
