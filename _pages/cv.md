@@ -12,11 +12,6 @@ redirect_from:
 - **Email:** [guanji1992@gmail.com](mailto:guanji1992@gmail.com)
 - **Affiliation:** [Key Laboratory of System Software (Chinese Academy of Sciences)](http://klss.ios.ac.cn/), Institute of Software, Chinese Academy of Sciences
 - **Address:** 4 South Fourth Street, Zhong Guan Cun, Beijing 100190, China
-- **Personal Website:** [https://www.veri-q.com/JiGuan/](https://www.veri-q.com/JiGuan/)
-- **ORCID:** [0000-0002-3490-0029](https://orcid.org/my-orcid?orcid=0000-0002-3490-0029)
-- **Google Scholar:** [Profile](https://scholar.google.com/citations?user=muIp5UIAAAAJ&hl=en)
-- **DBLP:** [Profile](https://dblp.uni-trier.de/pid/205/2739.html)
-- **H-index:** 12
 
 ## Research Interests
 
