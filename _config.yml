@@ -22,7 +22,7 @@ repository               : "Veri-Q/JiGuan"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ji-avatar-200.png"
+  avatar           : "Ji.JPG"
   name             : "Ji Guan"
   pronouns         : "he/his"  
   bio              : "Quantum Computing and Formal Methods"
