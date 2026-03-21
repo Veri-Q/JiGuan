@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Join Our Team"
-permalink: /recruitment
+permalink: /recruitment/
 author_profile: true
 ---
 
