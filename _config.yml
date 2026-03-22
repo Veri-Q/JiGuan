@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "Ji.JPG"
   name             : "Ji Guan"
-  pronouns         : "he/his"  
-  bio              : "Quantum Computing and Formal Methods"
+  pronouns         :
+  bio              :
   location         : "Beijing, China"
   employer         : "Institute of Software, Chinese Academy of Sciences"
   employer_uri     : "http://www.is.cas.cn"
