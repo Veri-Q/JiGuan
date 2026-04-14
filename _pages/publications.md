@@ -82,7 +82,7 @@ author_profile: true
 
 ## Invited Book Chapters
 
-1. **Guan, J.** and Ying, M. *Verifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation via a Software Tool*. In **Quantum Robustness in Artificial Intelligence**. Springer.
+1. **Guan, J.** and Ying, M. *Verifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation via a Software Tool*. In **Quantum Robustness in Artificial Intelligence**. Springer. [Chapter](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10) [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
 
 ---
 
