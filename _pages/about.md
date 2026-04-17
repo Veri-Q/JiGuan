@@ -137,4 +137,6 @@ As a Principal Investigator, I have secured competitive research grants from:
 - **Beijing Municipal Government**
 - **Institute of Software, Chinese Academy of Sciences**
 
+{% include visitor-map.html %}
+
 ---
