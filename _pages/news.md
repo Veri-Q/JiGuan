@@ -14,7 +14,7 @@ author_profile: true
 - **[2026-03]** 📄 **Paper Accepted** — Our paper *"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"* has been accepted at **SCIENCE CHINA Physics, Mechanics & Astronomy**. 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search"* has been accepted at **DAC 2026**. 📄 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantumprocessors"* has been accepted at **TCS**. 📄 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"QSegSim: A Symbolic Simulator for Qiskit WhileLoops using Sequential Quantum Circuits"* has been accepted at **FM 2026**. 📄
+- **[2026-02]** 📄 **Paper Accepted** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops using Sequential Quantum Circuits"* has been accepted at **FM 2026**. 📄
 - **[2026-01]** 🏆**Awarded Chinese Academy of Sciences “Future Partner Network” Grant (International Collaboration & Exchange)**, jointly with A\Prof. Alfons Laarman (Leiden University, the Netherlands). 
 - **[2025-11]** 📢 **PC Member**: I serve as a TPC member of **[IEEE ICC 2026](https://icc2026.ieee-icc.org)** and please submit your paper.
 - **[2025-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2026](https://www.ieee-qcnc.org/2026/)** and please submit your paper.
