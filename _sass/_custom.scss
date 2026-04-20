@@ -92,6 +92,14 @@ img.author__avatar {
   margin-bottom: 0.1rem;
 }
 
+.author__name-native {
+  margin: 0 0 0.25rem;
+  color: var(--jg-text-soft);
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
 .author__pronouns {
   margin-top: 0.2rem;
   color: var(--jg-text-soft);
@@ -160,6 +168,7 @@ img.author__avatar {
 }
 
 .sidebar .author__name,
+.sidebar .author__name-native,
 .sidebar .author__pronouns,
 .sidebar .author__bio {
   text-align: left;

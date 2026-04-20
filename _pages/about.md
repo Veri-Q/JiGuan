@@ -64,27 +64,37 @@ We are recruiting Master's and Ph.D. students, research interns, and postdoctora
 
 ## Selected Publications
 
-1. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
+1. Li, J., Mei, J., Fang, W., and **Guan, J.** (2026).  
+   *Formal Verification of Quantum Ancilla Safety*.  
+   **CAV 2026**.  
+   [🔗 Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Formal%20Verification%20of%20Quantum%20Ancilla%20Safety)
+
+2. Xu, M., Chen, Y., and **Guan, J.** (2026).  
+   *Model Checking Matrix Product States Against Linear Chain Logic*.  
+   **CAV 2026**.  
+   [🔗 Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Model%20Checking%20Matrix%20Product%20States%20Against%20Linear%20Chain%20Logic)
+
+3. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  
    **CAV 2024**.    
    [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-65633-0_24)
 
-2. **Guan, J.**, Fang, W., and Ying, M. (2022).  
+4. **Guan, J.**, Fang, W., and Ying, M. (2022).  
    *Verifying Fairness in Quantum Machine Learning*.    
    **CAV 2022**  
    [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20)
 
-3. **Guan, J.**, Fang, W., and Ying, M. (2021).  
+5. **Guan, J.**, Fang, W., and Ying, M. (2021).  
    *Robustness Verification of Quantum Classifiers*.  
    **CAV 2021**  
    [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7)
 
-4. **Guan, J.** (2025).  
+6. **Guan, J.** (2025).  
    *Optimal Mechanisms for Quantum Local Differential Privacy*.  
    **ACM CCS 2025**.  
    [🔗 Full Paper](https://arxiv.org/abs/2407.13516) 
 
-5. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
+7. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
    [🔗 Full Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)  
