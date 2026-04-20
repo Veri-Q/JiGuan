@@ -19,7 +19,7 @@ redirect_from:
 
 ## Highlights
 
-- Publications in **CAV (2021/2022/2024)**, **ACM CCS (2023/2025)**, **IEEE TIT (2023/2024)**, **SICOMP**, **FM (2024/2026)**, **IEEE TCAD**, and **DAC 2026**
+- Publications in **CAV (2021/2022/2024/2026)**, **ACM CCS (2023/2025)**, **IEEE TIT (2023/2024)**, **SICOMP**, **FM (2024/2026)**, **IEEE TCAD**, and **DAC 2026**
 - Co-lead the [VeriQ](https://www.veri-q.com) trustworthy quantum computing toolchain spanning verification, robustness, and privacy
 - Hardware-facing collaboration on robustness assessment and benchmarking on a superconducting quantum processor, including Origin Wukong
 

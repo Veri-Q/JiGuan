@@ -9,8 +9,10 @@ author_profile: true
 
 ### 2026
 
-1. Li, Z., **Guan, J.\***, and Ying, M. *QSeqSim: A Symbolic Simulator for Qiskit While Loops using Sequential Quantum Circuits*. In **FM 2026**.
-2. Li, C., Zhou, X., **Guan, J.\***, Meng, F., Zhu, P., and Luo, Y. *Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search*. In **DAC 2026**.
+1. Li, J., Mei, J., Fang, W., and **Guan, J.\***. *Formal Verification of Quantum Ancilla Safety*. In **CAV 2026**.
+2. Xu, M., Chen, Y., and **Guan, J.\***. *Model Checking Matrix Product States Against Linear Chain Logic*. In **CAV 2026**.
+3. Li, Z., **Guan, J.\***, and Ying, M. *QSeqSim: A Symbolic Simulator for Qiskit While Loops using Sequential Quantum Circuits*. In **FM 2026**.
+4. Li, C., Zhou, X., **Guan, J.\***, Meng, F., Zhu, P., and Luo, Y. *Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search*. In **DAC 2026**.
 
 ### 2025
 
