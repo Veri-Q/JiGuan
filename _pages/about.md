@@ -16,6 +16,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 
 ## Latest News
+- **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **CAV 2026**.
 - **[2026-04]** 📘 **New Book Chapter Published** — Our contributed chapter has been officially published in Springer’s [*Quantum Robustness in Artificial Intelligence*](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10). [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
 
 {% include book-card-quantum-robustness.html %}
