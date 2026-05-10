@@ -16,14 +16,16 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 
 ## Latest News
+- **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
+- **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for the **[QSYS Track at IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
 - **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **[CAV 2026](https://conferences.i-cav.org/2026/)**.
 - **[2026-04]** 📘 **New Book Chapter Published** — Our contributed chapter has been officially published in Springer’s [*Quantum Robustness in Artificial Intelligence*](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10). [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
 
 {% include book-card-quantum-robustness.html %}
 
 - **[2026-03]** 📄 **Paper Accepted** — Our paper *"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"* has been accepted at **[SCIENCE CHINA Physics, Mechanics & Astronomy](https://www.sciengine.com/SCPMA/home)**. 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search"* has been accepted at **[DAC 2026](https://dac.com/2026)**. 📄 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantumprocessors"* has been accepted at **[TCS](https://www.sciencedirect.com/journal/theoretical-computer-science)**. 📄 
+- **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via Hybrid Iterative Deepening Search"* has been accepted at **[DAC 2026](https://dac.com/2026)**. 📄 
+- **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantum processors"* has been accepted at **[TCS](https://www.sciencedirect.com/journal/theoretical-computer-science)**. 📄 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops using Sequential Quantum Circuits"* has been accepted at **[FM 2026](https://conf.researchr.org/home/fm-2026)**. 📄
 - **[2026-01]** 🏆**Awarded Chinese Academy of Sciences “Future Partner Network” Grant (International Collaboration & Exchange)**, jointly with A\Prof. Alfons Laarman (Leiden University, the Netherlands). 
 - **[2025-11]** 📢 **PC Member**: I serve as a TPC member of **[IEEE ICC 2026](https://icc2026.ieee-icc.org)** and please submit your paper.
@@ -67,37 +69,37 @@ We are recruiting Master's and Ph.D. students, research interns, and postdoctora
 1. Li, J., Mei, J., Fang, W., and **Guan, J.** (2026).  
    *Formal Verification of Quantum Ancilla Safety*.  
    **CAV 2026**.  
-   [🔗 Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Formal%20Verification%20of%20Quantum%20Ancilla%20Safety)
+   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Formal%20Verification%20of%20Quantum%20Ancilla%20Safety)
 
 2. Xu, M., Chen, Y., and **Guan, J.** (2026).  
    *Model Checking Matrix Product States Against Linear Chain Logic*.  
    **CAV 2026**.  
-   [🔗 Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Model%20Checking%20Matrix%20Product%20States%20Against%20Linear%20Chain%20Logic)
+   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Model%20Checking%20Matrix%20Product%20States%20Against%20Linear%20Chain%20Logic)
 
 3. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  
    **CAV 2024**.    
-   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-65633-0_24)
+   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-65633-0_24) · [DOI](https://doi.org/10.1007/978-3-031-65633-0_24) · [arXiv](https://arxiv.org/abs/2405.05825)
 
 4. **Guan, J.**, Fang, W., and Ying, M. (2022).  
    *Verifying Fairness in Quantum Machine Learning*.    
    **CAV 2022**  
-   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20)
+   [Paper](https://link.springer.com/chapter/10.1007/978-3-031-13188-2_20) · [DOI](https://doi.org/10.1007/978-3-031-13188-2_20) · [arXiv](https://arxiv.org/abs/2207.11173)
 
 5. **Guan, J.**, Fang, W., and Ying, M. (2021).  
    *Robustness Verification of Quantum Classifiers*.  
    **CAV 2021**  
-   [🔗 Full Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7)
+   [Paper](https://link.springer.com/chapter/10.1007/978-3-030-81685-8_7) · [DOI](https://doi.org/10.1007/978-3-030-81685-8_7) · [arXiv](https://arxiv.org/abs/2008.07230)
 
 6. **Guan, J.** (2025).  
    *Optimal Mechanisms for Quantum Local Differential Privacy*.  
    **ACM CCS 2025**.  
-   [🔗 Full Paper](https://arxiv.org/abs/2407.13516) 
+   [Paper](https://dl.acm.org/doi/10.1145/3719027.3765178) · [DOI](https://doi.org/10.1145/3719027.3765178) · [arXiv](https://arxiv.org/abs/2407.13516) 
 
 7. **Guan, J.**, Fang, W., Huang, M., and Ying, M. (2023).  
    *Detecting Violations of Differential Privacy for Quantum Algorithms*.  
    **ACM CCS 2023**.  
-   [🔗 Full Paper](https://dl.acm.org/doi/10.1145/3576915.3623108)  
+   [Paper](https://dl.acm.org/doi/10.1145/3576915.3623108) · [DOI](https://doi.org/10.1145/3576915.3623108) · [arXiv](https://arxiv.org/abs/2309.04819)  
 
 ---
 
@@ -107,12 +109,16 @@ We are recruiting Master's and Ph.D. students, research interns, and postdoctora
 
 ## Service
 
-I contribute to the research community through editorial service, program committee work, and peer review.
+I contribute to the research community through area chair service, program committee work, editorial service, and peer review.
+
+### Area Chair
+- **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)** - AI Scientists: Tools, Co-authors, or Founders?
 
 ### Program Committee Member
 - **CAV 2025/2026** - International Conference on Computer Aided Verification  
 - **QCNC 2025/2026** - International Conference on Quantum Communications, Networking, and Computing
 - **IEEE ICC 2026** - IEEE International Conference on Communications
+- **[IEEE Quantum Week 2026 QSYS Track](https://qce.quantum.ieee.org/2026/)** - IEEE International Conference on Quantum Computing and Engineering
 
 ### Reviewer
 I have served as a reviewer for several top-tier journals and conferences, including:  

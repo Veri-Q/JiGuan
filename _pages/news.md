@@ -7,14 +7,16 @@ author_profile: true
 
 ## Recent News Archive
 
+- **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
+- **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for the **[QSYS Track at IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
 - **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **[CAV 2026](https://conferences.i-cav.org/2026/)**.
 - **[2026-04]** 📘 **New Book Chapter Published** — Our contributed chapter has been officially published in Springer’s [*Quantum Robustness in Artificial Intelligence*](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10). [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
 
 {% include book-card-quantum-robustness.html %}
 
 - **[2026-03]** 📄 **Paper Accepted** — Our paper *"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"* has been accepted at **[SCIENCE CHINA Physics, Mechanics & Astronomy](https://www.sciengine.com/SCPMA/home)**. 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via HybridIterative Deepening Search"* has been accepted at **[DAC 2026](https://dac.com/2026)**. 📄 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantumprocessors"* has been accepted at **[TCS](https://www.sciencedirect.com/journal/theoretical-computer-science)**. 📄 
+- **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via Hybrid Iterative Deepening Search"* has been accepted at **[DAC 2026](https://dac.com/2026)**. 📄 
+- **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantum processors"* has been accepted at **[TCS](https://www.sciencedirect.com/journal/theoretical-computer-science)**. 📄 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops using Sequential Quantum Circuits"* has been accepted at **[FM 2026](https://conf.researchr.org/home/fm-2026)**. 📄
 - **[2026-01]** 🏆**Awarded Chinese Academy of Sciences “Future Partner Network” Grant (International Collaboration & Exchange)**, jointly with A\Prof. Alfons Laarman (Leiden University, the Netherlands). 
 - **[2025-11]** 📢 **PC Member**: I serve as a TPC member of **[IEEE ICC 2026](https://icc2026.ieee-icc.org)** and please submit your paper.
@@ -23,7 +25,7 @@ author_profile: true
 - **[2025-09]** 🏆**Awarded CCF–QuantumCTek Quantum Superconducting Quantum Computing Collaborative Research Project**.  
 - **[2025-09]** 📄 **Paper Accepted** — Our paper *"Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits"* has been accepted at **[IEEE TCAD](https://ieee-ceda.org/publications/tcad)**. 📄 [arXiv:2503.10340](https://arxiv.org/abs/2503.10340)
 - **[2025-08]** 📄 **Paper Accepted** — Our paper *"Checking continuous stochastic logic against quantum continuous-time Markov chains"* has been accepted at **[Logical Methods in Computer Science (LMCS)](https://lmcs.episciences.org/)**. 📄 [arXiv:2202.05412](https://arxiv.org/abs/2202.05412)
-- **[2025-07]** 📄 **Paper Accepted** — My solo author paper *"Optimal Mechanisms for Quantum Local Differential Privacy"* has been accepted at **[ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)**. 📄 [arXiv:2407.1351](https://arxiv.org/abs/2407.13516)
+- **[2025-07]** 📄 **Paper Accepted** — My solo author paper *"Optimal Mechanisms for Quantum Local Differential Privacy"* has been accepted at **[ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)**. 📄 [DOI](https://doi.org/10.1145/3719027.3765178) · [arXiv:2407.13516](https://arxiv.org/abs/2407.13516)
 - **[2025-06]** 📄 **Talk Accepted** — My talk *"Certifying Adversarial Robustness in Quantum Machine Learning: From Theory to Physical Validation "* has been accepted at **[The First Workshop on Verification of Quantum Computing (VQC 2025)](https://verifiedqc.github.io/2025/)**.
 - **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/)**.  
 - **[2025-06]** 📢 **PC Member**: I serve as a PC member of **[ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)**.  
