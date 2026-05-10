@@ -8,7 +8,7 @@ author_profile: true
 ## Recent News Archive
 
 - **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
-- **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for the **[QSYS Track at IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
+- **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
 - **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **[CAV 2026](https://conferences.i-cav.org/2026/)**.
 - **[2026-04]** 📘 **New Book Chapter Published** — Our contributed chapter has been officially published in Springer’s [*Quantum Robustness in Artificial Intelligence*](https://link.springer.com/chapter/10.1007/978-3-032-11153-1_10). [Chapter PDF]({{ site.baseurl }}/files/quantum-robustness-ai-chapter.pdf)
 
