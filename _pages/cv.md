@@ -74,7 +74,7 @@ Full publication list: [Publications](./publications)
 ## Service
 
 - **Area Chair:** [AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)
-- **Program Committee Member:** CAV 2025/2026, QCNC 2025/2026, IEEE ICC 2026, [IEEE Quantum Week 2026 QSYS Track](https://qce.quantum.ieee.org/2026/), SETSS 2025, ChinaSoft 2025
+- **Program Committee Member:** [CAV 2026](https://conferences.i-cav.org/2026/), [CAV 2025](https://conferences.i-cav.org/2025/), [QCNC 2026](https://www.ieee-qcnc.org/2026/), [QCNC 2025](https://www.ieee-qcnc.org/2025/), [IEEE ICC 2026](https://icc2026.ieee-icc.org/), [IEEE Quantum Week 2026 QSYS Track](https://qce.quantum.ieee.org/2026/), [SETSS 2025](https://tis.ios.ac.cn/SETSS2025/), [ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)
 - **Editorial Board Member:** Theoretical Computer Science Section, *Frontiers in Computer Science*
 - **Reviewer:** CAV, ASPLOS, CDC, QIP, CSL, AQIS, IEEE QCE, PLanQC, QPL, COCOON, ICFEM, ACM Transactions on Quantum Computing, IEEE Transactions on Information Theory, SIAM Journal on Control and Optimization, *Science Bulletin*, *Journal of Computer Science and Technology*, *Information Processing Letters*, and *IEEE Transactions on Emerging Topics in Computational Intelligence*
 

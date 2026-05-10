@@ -36,7 +36,7 @@ In collaboration with USTC, we experimentally evaluated the **adversarial robust
 
 - **[2025-03]** 🏆 **Award Received**: I received the **Young Elite Scientists Sponsorship Program (中国科协青年人才托举工程), CAST (China Association for Science and Technology)**.
 - **[2024-12]** 📢 **PC Member**: I serve as a PC member of **[CAV 2025](https://conferences.i-cav.org/2025/)**.  
-- **[2024-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2025](https://ieee-qcnc.org)**.  
+- **[2024-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2025](https://www.ieee-qcnc.org/2025/)**.  
 - **[2024-04]** 📄 **Paper Accepted**: Our paper *"Measurement-based Verification of Quantum Markov Chains"* has been accepted at **[CAV 2024](https://i-cav.org/2024/)**.  
 - **[2023-11]** 📄 **New Publication**: *"Detecting Violations of Differential Privacy for Quantum Algorithms"* is published in **[ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)**.  
 - **[2023-05]** 🏆 **Award Received**: I received the **Beijing High-Level Overseas Talent Program Award**.
