@@ -109,20 +109,18 @@ We are recruiting Master's and Ph.D. students, research interns, and postdoctora
 
 ## Service
 
-I contribute to the research community through area chair service, program committee work, editorial service, and peer review.
+I contribute to the research community through program committee work, area chair service, editorial service, and peer review.
+
+### Program Committee Member
+- **[CAV 2025](https://conferences.i-cav.org/2025/) / [CAV 2026](https://conferences.i-cav.org/2026/)** - International Conference on Computer Aided Verification
+- **[QCNC 2025](https://www.ieee-qcnc.org/2025/) / [QCNC 2026](https://www.ieee-qcnc.org/2026/)** - International Conference on Quantum Communications, Networking, and Computing
+- **[IEEE ICC 2026](https://icc2026.ieee-icc.org/)** - IEEE International Conference on Communications
+- **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)** - IEEE International Conference on Quantum Computing and Engineering
+- **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/)** - International School on Engineering Trustworthy Software Systems
+- **[ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)** - China National Software Conference
 
 ### Area Chair
 - **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)** - AI Scientists: Tools, Co-authors, or Founders?
-
-### Program Committee Member
-- **[CAV 2026](https://conferences.i-cav.org/2026/)** - International Conference on Computer Aided Verification
-- **[CAV 2025](https://conferences.i-cav.org/2025/)** - International Conference on Computer Aided Verification
-- **[QCNC 2026](https://www.ieee-qcnc.org/2026/)** - International Conference on Quantum Communications, Networking, and Computing
-- **[QCNC 2025](https://www.ieee-qcnc.org/2025/)** - International Conference on Quantum Communications, Networking, and Computing
-- **[IEEE ICC 2026](https://icc2026.ieee-icc.org/)** - IEEE International Conference on Communications
-- **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)** - IEEE International Conference on Quantum Computing and Engineering
-- **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/)** - Software Engineering: Theories, Tools and Applications Spring School
-- **[ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)** - China National Software Conference
 
 ### Editorial Board Member
 - **Theoretical Computer Science Section**, *Frontiers in Computer Science*
