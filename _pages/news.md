@@ -7,6 +7,7 @@ author_profile: true
 
 ## Recent News Archive
 
+- **[2026-05-17]** 📄 **Paper Published** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops Using Sequential Quantum Circuits"* has been published in the **[FM 2026 proceedings](https://link.springer.com/chapter/10.1007/978-3-032-26204-2_30)**. [DOI](https://doi.org/10.1007/978-3-032-26204-2_30) · [arXiv](https://arxiv.org/abs/2605.14881) · [PDF]({{ site.baseurl }}/files/qseqsim-fm2026.pdf)
 - **[2026-05-13]** 📄 **Paper Published** — Our paper *"Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00269) · [arXiv](https://arxiv.org/abs/2602.04253)
 - **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
 - **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
@@ -18,7 +19,6 @@ author_profile: true
 - **[2026-03]** 📄 **Paper Accepted** — Our paper *"Experimental robustness benchmark of quantum neural network on a superconducting quantum processor"* has been accepted at **[SCIENCE CHINA Physics, Mechanics & Astronomy](https://www.sciengine.com/SCPMA/home)**. 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"Lin-search: Scaling Exact Synthesis of CNOT Circuits via Hybrid Iterative Deepening Search"* has been accepted at **[DAC 2026](https://dac.com/2026)**. 📄 
 - **[2026-02]** 📄 **Paper Accepted** — Our paper *"A quantum game designed for property partitioning with implementation on superconducting quantum processors"* has been accepted at **[TCS](https://www.sciencedirect.com/journal/theoretical-computer-science)**. 📄 
-- **[2026-02]** 📄 **Paper Accepted** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops using Sequential Quantum Circuits"* has been accepted at **[FM 2026](https://conf.researchr.org/home/fm-2026)**. 📄
 - **[2026-01]** 🏆**Awarded Chinese Academy of Sciences “Future Partner Network” Grant (International Collaboration & Exchange)**, jointly with A\Prof. Alfons Laarman (Leiden University, the Netherlands). 
 - **[2025-11]** 📢 **PC Member**: I serve as a TPC member of **[IEEE ICC 2026](https://icc2026.ieee-icc.org)** and please submit your paper.
 - **[2025-11]** 📢 **PC Member**: I serve as a PC member of **[QCNC 2026](https://www.ieee-qcnc.org/2026/)** and please submit your paper.
