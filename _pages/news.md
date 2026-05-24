@@ -7,6 +7,7 @@ author_profile: true
 
 ## Recent News Archive
 
+- **[2026-05-13]** 📄 **Paper Published** — Our paper *"Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00269) · [arXiv](https://arxiv.org/abs/2602.04253)
 - **[2026-05]** 📢 **Area Chair** — I have been invited to serve as an Area Chair for the **[AI for Science Workshop at ICML 2026](https://ai4sciencecommunity.github.io/icml26.html)**.
 - **[2026-05]** 📢 **PC Member** — I have been invited to serve as a PC member for **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)**.
 - **[2026-04-18]** 🎉 **Two Papers Accepted** — Our papers *"Formal Verification of Quantum Ancilla Safety"* and *"Model Checking Matrix Product States Against Linear Chain Logic"* have been accepted at **[CAV 2026](https://conferences.i-cav.org/2026/)**.

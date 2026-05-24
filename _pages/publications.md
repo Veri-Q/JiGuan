@@ -48,7 +48,8 @@ author_profile: true
 
 ### 2026
 
-1. Jiang, H., Fu, J., Xu, M., **Guan, J.**, and Ying, S. (2026). *A Quantum Game Designed for Property Partitioning with Implementation on Superconducting Quantum Processors*. **Theoretical Computer Science**. [Paper](https://doi.org/10.1016/j.tcs.2026.115816) · [DOI](https://doi.org/10.1016/j.tcs.2026.115816)
+1. He, R., Hong, X., Chai, Q., **Guan, J.**, Zhou, J., Ablimit, A., Cui, G., and Ying, S. (2026). *Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion*. **Journal of Chemical Theory and Computation**. [Paper](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269) · [DOI](https://doi.org/10.1021/acs.jctc.6c00269) · [arXiv](https://arxiv.org/abs/2602.04253)
+2. Jiang, H., Fu, J., Xu, M., **Guan, J.**, and Ying, S. (2026). *A Quantum Game Designed for Property Partitioning with Implementation on Superconducting Quantum Processors*. **Theoretical Computer Science**. [Paper](https://doi.org/10.1016/j.tcs.2026.115816) · [DOI](https://doi.org/10.1016/j.tcs.2026.115816)
 
 ### 2025
 
@@ -95,7 +96,6 @@ author_profile: true
 ### 2026
 
 1. Li, C., Ying, M., and **Guan, J.\*** (2026). *Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms*. [arXiv](https://arxiv.org/abs/2502.04758)
-2. He, R., Hong, X., Chai, Q., **Guan, J.**, Zhou, J., Ablimit, A., Cui, G., and Ying, S. (2026). *Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion*. [arXiv](https://arxiv.org/abs/2602.04253)
 
 ### 2025
 
