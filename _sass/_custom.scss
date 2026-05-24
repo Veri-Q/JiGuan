@@ -305,67 +305,11 @@ img.author__avatar {
   margin: 0 0.35rem;
 }
 
-.publication-card__cover {
-  position: relative;
-  display: grid;
-  min-height: 176px;
-  padding: 1rem;
-  align-content: space-between;
-  overflow: hidden;
-  color: #ffffff;
-  text-decoration: none;
-  border-radius: 14px;
-  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.16);
-}
-
-.publication-card__cover::before {
-  content: "";
-  position: absolute;
-  inset: -30%;
-  background:
-    radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.28), transparent 26%),
-    radial-gradient(circle at 82% 18%, rgba(255, 255, 255, 0.16), transparent 30%),
-    linear-gradient(135deg, rgba(255, 255, 255, 0.18), transparent 45%);
-  transform: rotate(-12deg);
-}
-
-.publication-card__cover span {
-  position: relative;
-  z-index: 1;
-}
-
-.publication-card__venue {
-  font-size: 0.74rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  opacity: 0.9;
-}
-
-.publication-card__mark {
-  display: block;
-  font-size: 1.35rem;
-  font-weight: 800;
-  line-height: 1.1;
-}
-
-.publication-card__topic {
-  display: block;
-  font-size: 0.82rem;
-  line-height: 1.25;
-  opacity: 0.86;
-}
-
-.publication-card--fm .publication-card__cover {
-  background:
-    linear-gradient(145deg, rgba(7, 58, 86, 0.98), rgba(33, 153, 176, 0.92)),
-    linear-gradient(45deg, #0f5c7a, #38bdf8);
-}
-
-.publication-card--jctc .publication-card__cover {
-  background:
-    linear-gradient(145deg, rgba(88, 55, 18, 0.98), rgba(212, 126, 37, 0.9)),
-    linear-gradient(45deg, #7c3f00, #f59e0b);
+.publication-card__cover-image img {
+  aspect-ratio: 3 / 4.25;
+  object-fit: cover;
+  object-position: top center;
+  background: #ffffff;
 }
 
 .visitor-showcase {
@@ -455,7 +399,7 @@ img.author__avatar {
     max-width: 180px;
   }
 
-  .publication-card__cover {
+  .publication-card__cover-image {
     max-width: 220px;
   }
 }
