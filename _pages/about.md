@@ -20,7 +20,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 
 {% include paper-card-hiuccsd-jctc.html %}
 
-- **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **SETSS 2026**, the International School on Engineering Trustworthy Software Systems.
+- **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[SETSS 2026](https://www.rise-swu.cn/SETSS2026/)**, the International School on Engineering Trustworthy Software Systems.
 
 - **[2026-05-17]** 📄 **Paper Published** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops Using Sequential Quantum Circuits"* has been published in the **[FM 2026 proceedings](https://link.springer.com/chapter/10.1007/978-3-032-26204-2_30)**. [DOI](https://doi.org/10.1007/978-3-032-26204-2_30) · [arXiv](https://arxiv.org/abs/2605.14881) · [PDF]({{ site.baseurl }}/files/qseqsim-fm2026.pdf)
 
@@ -129,7 +129,7 @@ I contribute to the research community through program committee work, area chai
 - **[QCNC 2025](https://www.ieee-qcnc.org/2025/) / [QCNC 2026](https://www.ieee-qcnc.org/2026/)** - International Conference on Quantum Communications, Networking, and Computing
 - **[IEEE ICC 2026](https://icc2026.ieee-icc.org/)** - IEEE International Conference on Communications
 - **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)** - IEEE International Conference on Quantum Computing and Engineering
-- **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/) / SETSS 2026** - International School on Engineering Trustworthy Software Systems
+- **[SETSS 2025](https://tis.ios.ac.cn/SETSS2025/) / [SETSS 2026](https://www.rise-swu.cn/SETSS2026/)** - International School on Engineering Trustworthy Software Systems
 - **[ChinaSoft 2025](https://chinasoft.ccf.org.cn/#home)** - China National Software Conference
 
 ### Area Chair
