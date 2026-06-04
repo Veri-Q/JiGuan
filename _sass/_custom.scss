@@ -255,6 +255,71 @@ img.author__avatar {
   color: var(--jg-accent);
 }
 
+.research-snapshot,
+.research-area,
+.research-toolchain {
+  margin: 1.15rem 0 1.45rem;
+  padding: 1.15rem 1.25rem;
+  background: rgba(255, 255, 255, 0.86);
+  border: 1px solid rgba(15, 23, 42, 0.08);
+  border-radius: 20px;
+  box-shadow: 0 16px 36px rgba(15, 23, 42, 0.05);
+}
+
+.research-snapshot {
+  border-left: 5px solid var(--jg-accent);
+  background:
+    linear-gradient(135deg, rgba(15, 92, 122, 0.08), rgba(255, 255, 255, 0.92) 46%),
+    rgba(255, 255, 255, 0.9);
+}
+
+.research-area {
+  position: relative;
+  overflow: hidden;
+}
+
+.research-area::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 4px;
+  background: linear-gradient(90deg, var(--jg-accent), rgba(15, 92, 122, 0.14));
+}
+
+.research-area__eyebrow {
+  color: var(--jg-accent);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.research-area h3 {
+  margin-top: 0.15rem;
+}
+
+.research-area ul,
+.research-toolchain ul {
+  margin-top: 0.4rem;
+}
+
+.research-area li,
+.research-toolchain li {
+  margin-bottom: 0.45rem;
+}
+
+.research-area__note {
+  margin: 0.85rem 0 0;
+  color: var(--jg-text-soft);
+  font-size: 0.95rem;
+}
+
+.research-toolchain {
+  background:
+    radial-gradient(circle at top right, rgba(15, 92, 122, 0.08), transparent 30%),
+    rgba(255, 255, 255, 0.88);
+}
+
 .book-card {
   display: grid;
   grid-template-columns: minmax(110px, 132px) minmax(0, 1fr);
