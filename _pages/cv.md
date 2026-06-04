@@ -46,6 +46,7 @@ redirect_from:
 - **Guan, J.\***, Fang, W., and Ying, M. *Robustness Verification of Quantum Classifiers*. **CAV 2021**
 - **Guan, J.\***. *Optimal Mechanisms for Quantum Local Differential Privacy*. **ACM CCS 2025**
 - **Guan, J.\***, Fang, W., Huang, M., and Ying, M. *Detecting Violations of Differential Privacy for Quantum Algorithms*. **ACM CCS 2023**
+- He, R., Ablimit, A., Hong, X., Chai, Q., Zhou, J., **Guan, J.**, Cui, G., and Ying, S. *Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver*. **Journal of Chemical Theory and Computation**, 2026
 - Wang, Q., **Guan, J.**, Liu, J., Zhang, Z., and Ying, M. *New Quantum Algorithms for Computing Quantum Entropies and Distances*. **IEEE Transactions on Information Theory**, 2024
 
 Full publication list: [Publications](./publications)

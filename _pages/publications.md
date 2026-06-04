@@ -48,8 +48,9 @@ author_profile: true
 
 ### 2026
 
-1. He, R., Hong, X., Chai, Q., **Guan, J.**, Zhou, J., Ablimit, A., Cui, G., and Ying, S. (2026). *Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion*. **Journal of Chemical Theory and Computation**. [Paper](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269) · [DOI](https://doi.org/10.1021/acs.jctc.6c00269) · [arXiv](https://arxiv.org/abs/2602.04253)
-2. Jiang, H., Fu, J., Xu, M., **Guan, J.**, and Ying, S. (2026). *A Quantum Game Designed for Property Partitioning with Implementation on Superconducting Quantum Processors*. **Theoretical Computer Science**. [Paper](https://doi.org/10.1016/j.tcs.2026.115816) · [DOI](https://doi.org/10.1016/j.tcs.2026.115816)
+1. He, R., Ablimit, A., Hong, X., Chai, Q., Zhou, J., **Guan, J.**, Cui, G., and Ying, S. (2026). *Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver*. **Journal of Chemical Theory and Computation**. [Paper](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057) · [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
+2. He, R., Hong, X., Chai, Q., **Guan, J.**, Zhou, J., Ablimit, A., Cui, G., and Ying, S. (2026). *Constructing Compact ADAPT Unitary Coupled-Cluster Ansatz with Parameter-Based Criterion*. **Journal of Chemical Theory and Computation**. [Paper](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00269) · [DOI](https://doi.org/10.1021/acs.jctc.6c00269) · [arXiv](https://arxiv.org/abs/2602.04253)
+3. Jiang, H., Fu, J., Xu, M., **Guan, J.**, and Ying, S. (2026). *A Quantum Game Designed for Property Partitioning with Implementation on Superconducting Quantum Processors*. **Theoretical Computer Science**. [Paper](https://doi.org/10.1016/j.tcs.2026.115816) · [DOI](https://doi.org/10.1016/j.tcs.2026.115816)
 
 ### 2025
 
@@ -99,8 +100,7 @@ author_profile: true
 
 ### 2025
 
-1. He, R., Ablimit, A., Hong, X., Chai, Q., Zhou, J., **Guan, J.**, Cui, G., and Ying, S. (2025). *Hamiltonian-Informed Point Group Symmetry-Respecting Ansatz for Variational Quantum Eigensolver*. [arXiv](https://arxiv.org/abs/2512.21087)
-2. He, R., Chai, Q., Hong, X., **Guan, J.**, Cui, G., Wang, S., and Ying, S. (2025). *Gradient-Based Excitation Filter for Molecular Ground-State Simulation*. [arXiv](https://arxiv.org/abs/2506.20398)
+1. He, R., Chai, Q., Hong, X., **Guan, J.**, Cui, G., Wang, S., and Ying, S. (2025). *Gradient-Based Excitation Filter for Molecular Ground-State Simulation*. [arXiv](https://arxiv.org/abs/2506.20398)
 
 ### 2024
 

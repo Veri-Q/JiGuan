@@ -7,6 +7,10 @@ author_profile: true
 
 ## Recent News Archive
 
+- **[2026-06]** 📄 **Paper Published** — Our paper *"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
+
+{% include paper-card-hiuccsd-jctc.html %}
+
 - **[2026-05-17]** 📄 **Paper Published** — Our paper *"QSeqSim: A Symbolic Simulator for Qiskit While Loops Using Sequential Quantum Circuits"* has been published in the **[FM 2026 proceedings](https://link.springer.com/chapter/10.1007/978-3-032-26204-2_30)**. [DOI](https://doi.org/10.1007/978-3-032-26204-2_30) · [arXiv](https://arxiv.org/abs/2605.14881) · [PDF]({{ site.baseurl }}/files/qseqsim-fm2026.pdf)
 
 {% include paper-card-qseqsim-fm2026.html %}
