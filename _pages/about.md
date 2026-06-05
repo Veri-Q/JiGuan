@@ -15,6 +15,24 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 
 ---
 
+<div class="recruitment-banner">
+  <div class="recruitment-banner__eyebrow">Open Positions · Long-term</div>
+  <h2 class="recruitment-banner__title">Join FM4QC / VeriQ</h2>
+  <p class="recruitment-banner__text">
+    We are continuously recruiting motivated <strong>Master's students, Ph.D. students, postdoctoral researchers, research interns, and research/software engineers</strong> interested in trustworthy quantum computing, formal methods, quantum software, and quantum machine learning.
+  </p>
+  <div class="recruitment-banner__tags" aria-label="Open position types">
+    <span>Master's Students</span>
+    <span>Ph.D. Students</span>
+    <span>Postdocs</span>
+    <span>Interns</span>
+    <span>Engineers</span>
+  </div>
+  <a class="recruitment-banner__cta" href="{{ site.baseurl }}/recruitment/">Learn more and apply</a>
+</div>
+
+---
+
 ## Latest News
 - **[2026-06]** 📄 **Paper Published** — Our paper *"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
 
@@ -52,7 +70,7 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 ## Join Our Team
 
-We are recruiting Master's and Ph.D. students, research interns, and postdoctoral researchers interested in the intersection of **quantum computing** and **formal methods**. Current topics include:
+We are recruiting Master's and Ph.D. students, postdoctoral researchers, research interns, and research/software engineers interested in the intersection of **quantum computing** and **formal methods**. Current topics include:
 - **Model checking and verification of quantum systems**
 - **Quantum privacy protection mechanisms**
 - **Trustworthy quantum machine learning**

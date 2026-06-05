@@ -22,10 +22,11 @@ We offer research opportunities in, but not limited to, the following areas:
 ---
 
 ### 🧑‍🎓 **Positions Available**
-We welcome applications for:  
+We welcome applications on a rolling basis for:
 - Master's and Ph.D. students  
 - Research interns  
 - Postdoctoral researchers  
+- Research/software engineers
 
 ---
 
