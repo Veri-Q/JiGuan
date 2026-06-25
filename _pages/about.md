@@ -34,6 +34,8 @@ I am leading the group of **FM4QC**, *Formal Methods for Quantum Computing*. My 
 ---
 
 ## Latest News
+- **[2026-06]** 📢 **PC Member** — I have been invited to serve as a Program Committee Member for **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**, which will take place in Denver, CO, USA, on August 11-13, 2027.
+
 - **[2026-06]** 📄 **Paper Published** — Our paper *"Hamiltonian-Informed Point Group Symmetry-Respecting Ansätze for the Variational Quantum Eigensolver"* has been published online in **[Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.6c00057)**. [DOI](https://doi.org/10.1021/acs.jctc.6c00057) · [arXiv](https://arxiv.org/abs/2512.21087)
 
 {% include paper-card-hiuccsd-jctc.html %}
@@ -144,6 +146,7 @@ I contribute to the research community through program committee work, area chai
 
 ### Program Committee Member
 - **[CAV 2025](https://conferences.i-cav.org/2025/) / [CAV 2026](https://conferences.i-cav.org/2026/)** - International Conference on Computer Aided Verification
+- **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)** - USENIX Security Symposium
 - **[QCNC 2025](https://www.ieee-qcnc.org/2025/) / [QCNC 2026](https://www.ieee-qcnc.org/2026/)** - International Conference on Quantum Communications, Networking, and Computing
 - **[IEEE ICC 2026](https://icc2026.ieee-icc.org/)** - IEEE International Conference on Communications
 - **[IEEE Quantum Week 2026](https://qce.quantum.ieee.org/2026/)** - IEEE International Conference on Quantum Computing and Engineering
