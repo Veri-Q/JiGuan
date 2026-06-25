@@ -102,12 +102,12 @@ We are recruiting Master's and Ph.D. students, postdoctoral researchers, researc
 1. Li, J., Mei, J., Fang, W., and **Guan, J.** (2026).  
    *Formal Verification of Quantum Ancilla Safety*.  
    **CAV 2026**.  
-   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Formal%20Verification%20of%20Quantum%20Ancilla%20Safety)
+   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanji1992@gmail.com?subject=Request%20for%20Formal%20Verification%20of%20Quantum%20Ancilla%20Safety)
 
 2. Xu, M., Chen, Y., and **Guan, J.** (2026).  
    *Model Checking Matrix Product States Against Linear Chain Logic*.  
    **CAV 2026**.  
-   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanj@ios.ac.cn?subject=Request%20for%20Model%20Checking%20Matrix%20Product%20States%20Against%20Linear%20Chain%20Logic)
+   [Accepted](https://conferences.i-cav.org/2026/accepted/) · [Paper by request](mailto:guanji1992@gmail.com?subject=Request%20for%20Model%20Checking%20Matrix%20Product%20States%20Against%20Linear%20Chain%20Logic)
 
 3. **Guan, J.**, Feng, Y., Turrini, A., and Ying, M. (2024).  
    *Measurement-based Verification of Quantum Markov Chains*.  

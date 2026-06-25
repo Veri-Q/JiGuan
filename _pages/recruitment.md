@@ -39,5 +39,5 @@ We welcome applications on a rolling basis for:
 ---
 
 ### 📬 **Contact Information**
-📧 **Email**: [guanj@ios.ac.cn](mailto:guanj@ios.ac.cn)  
+📧 **Email**: [guanji1992@gmail.com](mailto:guanji1992@gmail.com)
 🌐 **Project Website**: [VeriQ Toolchain](https://www.veri-q.com)  
